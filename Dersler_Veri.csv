@@ -1,0 +1,837 @@
+DersKodu;DersAdi;DersiVeren;DersUzunluk;AKTS;OgrSayisi;AcildigiProgram;Donem
+YDY-102-50-50-AKTS;Yabancý Dil II;Öðr.Gör.Dr. Meryem ODABAÞI;2;1;161;Ýnþaat Mühendisliði Programý;2
+INM-106-50-50-AKTS;Bilgisayar Destekli Teknik Resim;Dr. Öðr. Üyesi Ahmet ATALAY;3;4;47;Ýnþaat Mühendisliði Programý;2
+FIZ-102-50-50-AKTS;Fizik II;Doç.Dr. Esra KAVAZ;5;6;89;Ýnþaat Mühendisliði Programý;2
+INM-104-50-50-AKTS;Ýnþaat Mühendisleri Ýçin Jeoloji;Dr. Öðr. Üyesi Zeynep Neþe KURT ALBAYRAK;3;4;76;Ýnþaat Mühendisliði Programý;2
+MAT-102-50-50-AKTS;Matematik II;Prof.Dr. Ömer TARAKCI;4;6;66;Ýnþaat Mühendisliði Programý;2
+INM-102-50-50-AKTS;Statik;Prof.Dr. Mehmet Hamit ÖZYAZICIOÐLU;3;5;53;Ýnþaat Mühendisliði Programý;2
+INM-108-50-50-AKTS;Yapý Bilgisi;Prof.Dr. Remzi ÞAHÝN;3;4;99;Ýnþaat Mühendisliði Programý;2
+TDE-202-50-50-AKTS;Türk Dili II;Öðr.Gör.Dr. Dilek AKAN BUDAK;2;1;165;Ýnþaat Mühendisliði Programý;4
+INM-210-50-50-AKTS;Yapý Malzemeleri;Prof.Dr. Ahmet Ferhat BÝNGÖL;4;4;106;Ýnþaat Mühendisliði Programý;4
+INM-206-50-50-AKTSa;Akýþkanlar Mekaniði;Dr. Öðr. Üyesi Selim ÞENGÜL;3;5;58;Ýnþaat Mühendisliði Programý;4
+INM-208-50-50-AKTS;Mukavemet II;Doç.Dr. Fatih Mehmet ÖZKAL;3;4;102;Ýnþaat Mühendisliði Programý;4
+INM-202-50-50-AKTS;Mühendislik Matemetiði;Doç.Dr. Çaðlar ÖZER;3;4;103;Ýnþaat Mühendisliði Programý;4
+MUH-SAY-50-50-AKTS;Sayýsal Yöntemler;Dr. Öðr. Üyesi Fatma KARAGÖL;3;4;47;Ýnþaat Mühendisliði Programý;4
+INM-204-50-50-AKTS;Topoðrafya;Doç.Dr. Mahmut KILIÇ;3;4;42;Ýnþaat Mühendisliði Programý;4
+AIT-302-50-50-AKTS;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Tolga BAÞAK;2;1;90;Ýnþaat Mühendisliði Programý;6
+INM-302-50-50-AKTS;Yapý Statiði II;Doç.Dr. Oðuz Akýn DÜZGÜN;3;5;46;Ýnþaat Mühendisliði Programý;6
+INM-304-50-50-AKTS;Zemin Mekaniði II;Doç.Dr. Semet ÇELÝK;3;5;51;Ýnþaat Mühendisliði Programý;6
+INM-306-50-50-AKTS;Demiryolu ve Toprak Ýþleri;Doç.Dr. Osman Ünsal BAYRAK;4;5;46;Ýnþaat Mühendisliði Programý;6
+INM-308-50-50-AKTS;Betonarme I;Doç.Dr. Ahmet BUDAK;3;5;86;Ýnþaat Mühendisliði Programý;6
+INM-312-50-50-AKTS;Temel Ýnþaatý;Prof.Dr. Ahmet Þahin ZAÝMOÐLU;3;5;64;Ýnþaat Mühendisliði Programý;6
+INM-314-50-50 (2018 ve Üzeri);Yapý Ýþletme ve Þantiye Tekniði;Doç.Dr. Rýza POLAT;3;4;41;Ýnþaat Mühendisliði Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Doç.Dr. Osman Ünsal BAYRAK;38;30;57;Ýnþaat Mühendisliði Programý;8
+INM-404-50-50-AKTS;Bitirme Projesi II;Doç.Dr. Meral OLTULU;2;2;38;Ýnþaat Mühendisliði Programý;8
+INM-408-50-50-AKTS;Ýnþaat Mühendisliði Laboratuvarý II;Dr. Öðr. Üyesi Gökhan KAPLAN;2;3;38;Ýnþaat Mühendisliði Programý;8
+INM-410-50-50 (2018 ve Üzeri);Ýnþaat Mühendisliði Uygulamalarý;Doç.Dr. Ahmet BUDAK;6;8;24;Ýnþaat Mühendisliði Programý;8
+INS-404-50-50 (2018 ve Üzeri);Ýnþaat Mühendisliði Seçmeli Tasarým II;Prof.Dr. Mahir GÖKDAÐ;4;6;24;Ýnþaat Mühendisliði Programý;8
+FIZ-102-50-50-AKTS;Fizik II;Prof.Dr. Yakup KURUCU;5;6;66;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+INM 102-50-50-AKTS;Statik;Prof.Dr. Mehmet Hamit ÖZYAZICIOÐLU;3;5;10;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+INM-108-50-50-AKTS;Yapý Bilgisi;Prof.Dr. Remzi ÞAHÝN;3;4;24;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+INM-104-50-50-AKTS;Ýnþaat Mühendisleri Ýçin Jeoloji;Dr. Öðr. Üyesi Zeynep Neþe KURT ALBAYRAK;3;4;15;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+INM-106-50-50-AKTS;Bilgisayar Destekli Teknik Resim;Dr. Öðr. Üyesi Ahmet ATALAY;3;4;27;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+TDE-202-50-50-AKTS;Türk Dili II;Dr. Öðr. Üyesi Hamza KOLUKISA;2;1;31;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+INM-204-50-50-AKTS;Topoðrafya;Doç.Dr. Mahmut KILIÇ;3;4;19;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+INM-206-50-50-AKTS;Akýþkanlar Mekaniði;Dr. Öðr. Üyesi Selim ÞENGÜL;3;5;23;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+INM 208-50-50-AKTS;Mukavemet II;Doç.Dr. Fatih Mehmet ÖZKAL;3;4;28;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+INM-202-50-50-AKTS;Mühendislik Matemetiði;Doç.Dr. Çaðlar ÖZER;3;4;19;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+MUH-SAY-50-50-AKTS;Sayýsal Yöntemler;Dr. Öðr. Üyesi Fatma KARAGÖL;3;4;19;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+INM-210-50-50-AKTS;Yapý Malzemeleri;Prof.Dr. Ahmet Ferhat BÝNGÖL;4;4;32;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+AIT-302-50-50-AKTS;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Erdal AYDOÐAN;2;1;63;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-312-50-50-AKTS;Temel Ýnþaatý;Prof.Dr. Ahmet Þahin ZAÝMOÐLU;3;5;89;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-302-50-50-AKTS;Yapý Statiði II;Doç.Dr. Oðuz Akýn DÜZGÜN;3;5;64;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-304-50-50-AKTS;Zemin Mekaniði II;Doç.Dr. Semet ÇELÝK;3;5;66;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-308-50-50-AKTS;Betonarme I;Doç.Dr. Ahmet BUDAK;3;5;42;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-306-50-50-AKTS;Demiryolu ve Toprak Ýþleri;Doç.Dr. Osman Ünsal BAYRAK;4;5;68;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-314 (2018 ve Üzeri);Yapý Ýþletme ve Þantiye Tekniði;Doç.Dr. Rýza POLAT;3;4;70;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Doç.Dr. Osman Ünsal BAYRAK;38;30;38;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INM-402-50-50-AKTS;Bitirme Projesi II;Prof.Dr. Habib UYSAL;2;2;47;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INM-408-50-50-AKTS;Ýnþaat Mühendisliði Laboratuvarý II;Dr. Öðr. Üyesi Gökhan KAPLAN;2;3;46;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INM-410-50-50 (2018 ve Üzeri);Ýnþaat Mühendisliði Uygulamalarý;Prof.Dr. Reþat ACAR;6;8;27;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INM-406-50-50 (2018 ve Üzeri);Ýnþaat Mühendisliði Seçmeli Tasarým II;Prof.Dr. Mahir GÖKDAÐ;4;6;27;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+KMM-102-50-50-AKTS;Genel Kimya II;Dr. Öðr. Üyesi Zafer EKÝNCÝ;3;5;9;Kimya Mühendisliði Programý;2
+KMM-104-50-50-AKTS;Analitik Kimya;Doç.Dr. Hakan TEMÜR;3;5;5;Kimya Mühendisliði Programý;2
+KMM-106-50-50-AKTS;Kimya Laboratuvarý;Dr. Öðr. Üyesi Zafer EKÝNCÝ;3;3;11;Kimya Mühendisliði Programý;2
+KMM-202-50-50-AKTS;Enstrumental Analiz;Prof.Dr. Özlem KORKUT;2;4;12;Kimya Mühendisliði Programý;4
+MUH-SAY-50-50-AKTS;Sayýsal Yöntemler;Prof.Dr. Taner TEKÝN;3;4;12;Kimya Mühendisliði Programý;4
+KMM-208-50-50-AKTS;Mühendislik Termodinamiði;Prof.Dr. Soner KUÞLU;3;6;17;Kimya Mühendisliði Programý;4
+KMM-206-50-50-AKTS;Kimyasal Proses Hesaplamalarý;Prof.Dr. Enes ÞAYAN;3;5;16;Kimya Mühendisliði Programý;4
+KMM-204-50-50-AKTS;Akýþkanlar Mekaniði;Doç.Dr. Mehmet YILMAZ;3;6;13;Kimya Mühendisliði Programý;4
+KMM-304-50-50-AKTS;Kütle Transferi;Doç.Dr. Mehmet Emin ARZUTUÐ;3;5;5;Kimya Mühendisliði Programý;6
+KMM-306-50-50-AKTS;Kimyasal Reaksiyon Mühendisliði II;Doç.Dr. Jale NAKTÝYOK;3;5;3;Kimya Mühendisliði Programý;6
+KMM-310-50-50-AKTS;Profesyonel Geliþim;Prof.Dr. Fatih SEVÝM;3;4;5;Kimya Mühendisliði Programý;6
+KMM-302-50-50-AKTS;Kimya Mühendisliðinde Matematiksel Modelleme;NULL;3;4;0;Kimya Mühendisliði Programý;6
+KMM-308-50-50-AKTS;Kimya Mühendisliði Laboratuvarý I;Doç.Dr. Bahar BAYRAK;3;4;3;Kimya Mühendisliði Programý;6
+MUH-UME-Log k var;Uygulamalý Mühendislik Eðitimi;NULL;38;30;0;Kimya Mühendisliði Programý;8
+KMM-404-50-50-AKTS;Bitirme Projesi II;Prof.Dr. Fatih SEVÝM;2;2;3;Kimya Mühendisliði Programý;8
+KMM-402-50-50 (2018 ve Üzeri);Kimya Mühendisliði Uygulamalarý;NULL;6;8;0;Kimya Mühendisliði Programý;8
+CVM-102-50-50-AKTS;Çevre Jeolojisi;Dr. Öðr. Üyesi Ýlker ACAR;3;4;3;Çevre Mühendisliði Programý;2
+MUH-MEK-50-50-AKTS;Mühendislik Mekaniði;Prof.Dr. Ensar OÐUZ;3;4;3;Çevre Mühendisliði Programý;2
+CVM-104-50-50-AKTS;Çevre Mühendisliði Ekolojisi;Prof.Dr. Alper NUHOÐLU;3;4;3;Çevre Mühendisliði Programý;2
+CVM-106-50-50-AKTS;Bilgisayar Destekli Teknik Resim;Prof.Dr. Yaþar TOTÝK;3;5;3;Çevre Mühendisliði Programý;2
+CVM-208-50-50-AKTS;Çevre Mühendisliði Kimyasý II;Prof.Dr. Zeynep CEYLAN;3;4;1;Çevre Mühendisliði Programý;4
+CVM-210-50-50-AKTS;Çevre Mühendisliði Kimyasý Laboratuvarý II;Prof.Dr. Murat Tolga YILMAZ;2;2;0;Çevre Mühendisliði Programý;4
+CVM-204-50-50-AKTS;Çevre Mühendisliði Mikrobiyolojisi;Prof.Dr. Yalçýn Kemal BAYHAN;3;4;1;Çevre Mühendisliði Programý;4
+CVM-206-50-50-AKTS;Çevre Mühendisliði Taþýným Prosesleri;Doç.Dr. Serkan BAYAR;3;4;0;Çevre Mühendisliði Programý;4
+CVM-304-50-50-AKTS;Sularýn Arýtýlmasý;Prof.Dr. Alper Erdem YILMAZ;4;5;0;Çevre Mühendisliði Programý;6
+CVM-306-50-50-AKTS;Çevre Mühendisliði Biyolojik Prosesleri;Prof.Dr. Alper NUHOÐLU;4;5;0;Çevre Mühendisliði Programý;6
+CVM-302-50-50-AKTS;Hava Kirliliðinin Kontrolü;Prof.Dr. Hanefi BAYRAKTAR;3;5;0;Çevre Mühendisliði Programý;6
+CVM-308-50-50-AKTS;Kanalizasyon Sistemleri Projelendirilmesi;Prof.Dr. Alper Erdem YILMAZ;4;5;0;Çevre Mühendisliði Programý;6
+CVM-312-50-50-AKTS;Termodinamik;Prof.Dr. Ensar OÐUZ;3;4;0;Çevre Mühendisliði Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Prof.Dr. Ergün YILDIZ;38;30;0;Çevre Mühendisliði Programý;8
+CVM-408-50-50-AKTS;Bitirme Projesi II;Prof.Dr. Ergün YILDIZ;2;2;0;Çevre Mühendisliði Programý;8
+CVS-404-50-50 (2018 ve Üzeri);Çevre Mühendisliði Seçmeli Tasarým II;Doç.Dr. Beyhan KOCADAÐÝSTAN;4;6;0;Çevre Mühendisliði Programý;8
+CVM-410-50-50 (2018 ve Üzeri);Çevre Mühendisliði Uygulamalarý;Prof.Dr. Ergün YILDIZ;3;4;0;Çevre Mühendisliði Programý;8
+CVM-406-50-50 (2018 ve Üzeri);Çevre Mühendisliði Laboratuvarý II;Prof.Dr. Murat Tolga YILMAZ;2;3;0;Çevre Mühendisliði Programý;8
+MKM-106-50-50-AKTS;Bilgisayar Destekli Teknik Resim;Prof.Dr. Yaþar TOTÝK;4;5;73;Makine Mühendisliði Programý;2
+FIZ-102-50-50-AKTS;Fizik II;Prof.Dr. Lütfü DEMÝR;5;6;72;Makine Mühendisliði Programý;2
+MUH-IST-50-50-AKTS;Ýstatistik ve Olasýlýk;Doç.Dr. Halim KOVACI;3;4;72;Makine Mühendisliði Programý;2
+MAT-102-50-50-AKTS;Matematik II;Dr. Öðr. Üyesi Nazlý KARACA;4;6;90;Makine Mühendisliði Programý;2
+MKM-104-50-50-AKTS;Ölçme Tekniði ve Deðerlendirme;Dr. Öðr. Üyesi Yakup UZUN;2;3;64;Makine Mühendisliði Programý;2
+MKM-102-50-50-AKTS;Statik;Prof.Dr. Hikmet ALTUN;3;5;46;Makine Mühendisliði Programý;2
+MKM-206-50-50;Akýþkanlar Mekaniði I;Dr. Öðr. Üyesi Erdoðan GÜNER;3;4;31;Makine Mühendisliði Programý;4
+MKM-210-50-50;Ýmal Usulleri I;Prof.Dr. Mehmet KARAKAN;3;5;58;Makine Mühendisliði Programý;4
+MKM-202-50-50-AKTS;Makine Mühendisliði Matematik Uygulamalarý;Dr. Öðr. Üyesi Ýlhan Volkan ÖNER;3;4;80;Makine Mühendisliði Programý;4
+MKM-208-50-50;Mukavemet II;Doç.Dr. Sinan SEZEK;3;4;44;Makine Mühendisliði Programý;4
+MKM-204-50-50-AKTS;Mühendislik Malzemeleri;Prof.Dr. Ýhsan EFEOÐLU;3;4;97;Makine Mühendisliði Programý;4
+MUH-SAY-50-50;Sayýsal Yöntemler;Prof.Dr. Ömer GÜNDOÐDU;3;4;44;Makine Mühendisliði Programý;4
+MKM-212-50-50-A-AKTS;Termodinamik II;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;4;48;Makine Mühendisliði Programý;4
+MUH-EKO-50-50-AKTS;Mühendislik Ekonomisi;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;2;3;30;Makine Mühendisliði Programý;6
+MKM-302-50-50;Makine Elemanlarý II;Prof.Dr. Sadri ÞEN;3;5;49;Makine Mühendisliði Programý;6
+MKM-304-50-50;Isý Transferi II;Prof.Dr. Ýsak KOTCÝOÐLU;3;5;65;Makine Mühendisliði Programý;6
+MKM-306-50-50-AKTS;Makine Teorisi II;Prof.Dr. Mustafa YAMAN;3;4;80;Makine Mühendisliði Programý;6
+MKM-308-50-50-AKTS;Isýtma Havalandýrma ve Ýklimlendirme;Prof.Dr. Kadir BÝLEN;3;5;48;Makine Mühendisliði Programý;6
+MKM-310-50-50-AKTS;Proje Tasarým Esaslarý;Prof.Dr. Ýhsan EFEOÐLU;1;2;74;Makine Mühendisliði Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Dr. Öðr. Üyesi Faruk YEÞÝLDAL;38;30;24;Makine Mühendisliði Programý;8
+MKM-402-50-50-AKTS;Bitirme Projesi II;Prof.Dr. Ýsmail SOLMAZ;2;2;57;Makine Mühendisliði Programý;8
+MKM-404-50-50 (2018 ve Üzeri);Makine Laboratuvarý II;Dr. Öðr. Üyesi Erdoðan GÜNER;2;3;30;Makine Mühendisliði Programý;8
+MKS-404-50-50 (2018 ve Üzeri);Makine Mühendisliði Seçmeli Tasarým II;Prof.Dr. Ýsmail SOLMAZ;4;6;29;Makine Mühendisliði Programý;8
+MKM-106-50-Ö.Ö;Bilgisayar Destekli Teknik Resim;NULL;4;5;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MUH-IST-50-ö.ö;Ýstatistik ve Olasýlýk;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MKM-104-50-50-AKTS;Ölçme Tekniði ve Deðerlendirme;NULL;2;3;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MKM-102-50-Ö.Ö;Statik;NULL;3;5;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MKM-206-50-Ö.Ö;Akýþkanlar Mekaniði I;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MKM-210-50-50-AKTS;Ýmal Usulleri I;Prof.Dr. Mehmet KARAKAN;3;5;21;Makine Mühendisliði (Ý.Ö.) Programý;4
+MKM-202-50-ö.ö;Makine Mühendisliði Matematik Uygulamalarý;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MKM 208-50-50-AKTS;Mukavemet II;Prof. Hamit AKBULUT;3;4;23;Makine Mühendisliði (Ý.Ö.) Programý;4
+MKM-204-50-50-AKTS;Mühendislik Malzemeleri;Prof.Dr. Ýhsan EFEOÐLU;3;4;18;Makine Mühendisliði (Ý.Ö.) Programý;4
+MUH-SAY-50-ö.ö;Sayýsal Yöntemler;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MKM-212-50-Ö.Ö;Termodinamik II;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MUH-EKO-50-50-AKTS;Mühendislik Ekonomisi;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;2;3;29;Makine Mühendisliði (Ý.Ö.) Programý;6
+MKM-310-50-50-AKTS;Proje Tasarým Esaslarý;Prof.Dr. Ýhsan EFEOÐLU;1;2;23;Makine Mühendisliði (Ý.Ö.) Programý;6
+MKM-302-50-50-AKTS;Makine Elemanlarý II;Prof.Dr. Sadri ÞEN;3;5;46;Makine Mühendisliði (Ý.Ö.) Programý;6
+MKM-304-50-50-AKTS;Isý Transferi II;Prof.Dr. Ýsak KOTCÝOÐLU;3;5;52;Makine Mühendisliði (Ý.Ö.) Programý;6
+MKM-306-50-50-AKTS;Makine Teorisi II;Prof.Dr. Mustafa YAMAN;3;4;22;Makine Mühendisliði (Ý.Ö.) Programý;6
+MKM-308-50-50-AKTS;Isýtma Havalandýrma ve Ýklimlendirme;Prof.Dr. Kadir BÝLEN;3;5;42;Makine Mühendisliði (Ý.Ö.) Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Dr. Öðr. Üyesi Faruk YEÞÝLDAL;38;30;14;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKM-402-50-50 (2018 ve Üzeri);Bitirme Projesi II;Prof.Dr. Yaþar TOTÝK;2;2;27;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKM-404-50-50 (2018 ve Üzeri);Makine Laboratuvarý II;Dr. Öðr. Üyesi Erdoðan GÜNER;2;3;12;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKS-404-50-50 (2018 ve Üzeri);Makine Mühendisliði Seçmeli Tasarým II;Doç.Dr. Halim KOVACI;4;6;12;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKM-408-50-50 (2018 ve Üzeri);Makine Mühendisliði Uygulamalarý;Dr. Öðr. Üyesi Ruhi YEÞÝLDAL;3;4;12;Makine Mühendisliði (Ý.Ö.) Programý;8
+EEM-102-50-50-AKTS;Elektrik Devre Temelleri;Prof.Dr. Ýbrahim Yücel ÖZBEK;4;7;70;Elektrik-Elektronik Mühendisliði Programý;2
+EEM-104-50-50-AKTS;Bilgisayar Programlama II;Öðr.Gör. Atakan ABUÞOÐLU;3;5;71;Elektrik-Elektronik Mühendisliði Programý;2
+FIZ-102-50-50-AKTS;Fizik II;Prof.Dr. Þakir AYDOÐAN;5;6;54;Elektrik-Elektronik Mühendisliði Programý;2
+EEM-106-50-50-AKTS;Lojik Devreler;Prof.Dr. Tevhit KARACALI;3;5;106;Elektrik-Elektronik Mühendisliði Programý;2
+MAT-102-50-50-AKTS;Matematik II;Prof.Dr. Ýsa YILDIRIM;4;6;100;Elektrik-Elektronik Mühendisliði Programý;2
+EEM-212-50-50-AKTS;Analog Elektronik Laboratuvarý;Dr. Öðr. Üyesi Ömer ÇOBAN;2;2;50;Elektrik-Elektronik Mühendisliði Programý;4
+EEM-204-50-50-AKTS;Devre Analizi;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;3;5;72;Elektrik-Elektronik Mühendisliði Programý;4
+EEM-202-50-50-AKTS;Elektrik Elektronik Mühendisliði Mat. Uygulamalarý;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;83;Elektrik-Elektronik Mühendisliði Programý;4
+EEM-206-50-50-AKTS;Elektromanyetik Alan Teorisi;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;4;6;92;Elektrik-Elektronik Mühendisliði Programý;4
+EEM-208-50-50-AKTS;Elektronik Devreler;Dr. Öðr. Üyesi Ömer ÇOBAN;3;4;93;Elektrik-Elektronik Mühendisliði Programý;4
+EEM-210-50-50-AKTS;Olasýlýk ve Rastlantý Deðiþkenleri;Prof.Dr. Ýbrahim Yücel ÖZBEK;3;4;80;Elektrik-Elektronik Mühendisliði Programý;4
+MUH-SAY-50-50-AKTS;Sayýsal Yöntemler;Doç.Dr. Abdullah BAÞÇÝ;3;4;77;Elektrik-Elektronik Mühendisliði Programý;4
+AIT-302-50-50-AKTS;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Tolga BAÞAK;2;1;98;Elektrik-Elektronik Mühendisliði Programý;6
+EEM-302-50-50-AKTS;Elektrik Makineleri;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;5;83;Elektrik-Elektronik Mühendisliði Programý;6
+EEM-312-50-50-AKTS;Mikroiþlemci Laboratuvarý;Dr. Öðr. Üyesi Emin Argun ORAL;2;2;81;Elektrik-Elektronik Mühendisliði Programý;6
+EEM-304-50-50-AKTS;Otomatik Kontrol;Doç.Dr. Abdullah BAÞÇÝ;3;5;79;Elektrik-Elektronik Mühendisliði Programý;6
+EEM-306-50-50-AKTS;Sayýsal Ýþaret Ýþleme;Dr. Öðr. Üyesi Emin Argun ORAL;3;5;73;Elektrik-Elektronik Mühendisliði Programý;6
+EEM-310-50-50-AKTS;Yüksek Gerilim Tekniði ve Tesisi;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;4;77;Elektrik-Elektronik Mühendisliði Programý;6
+EEM-308-50-50-AKTS;Sayýsal Haberleþme;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;78;Elektrik-Elektronik Mühendisliði Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Prof.Dr. Tevhit KARACALI;38;30;35;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-408-50-50 (2018 ve Üzeri);Bitirme Projesi II;Prof.Dr. Tevhit KARACALI;2;2;12;Elektrik-Elektronik Mühendisliði Programý;8
+EES-404-50-50 (2018 ve Üzeri);Elektrik Elektronik Mühendisliði Seçmeli Tasarým II;Prof.Dr. Tevhit KARACALI;4;6;12;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-406-50-50 (2018 ve Üzeri);Elektrik Makinelerý Laboratuvarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;2;3;12;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-410-50-50 (2018 ve Üzeri);Elektrik Elektronik Mühendisliði Uygulamalarý;Doç.Dr. Abdullah BAÞÇÝ;3;4;12;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-104-50-50-AKTS;Bilgisayar Programlama II;Öðr.Gör. Atakan ABUÞOÐLU;3;5;58;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+MAT-102-50-50-AKTS;Matematik II;Prof.Dr. Ekrem KADIOÐLU;4;6;54;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+EEM-102-50-50-AKTS;Elektrik Devre Temelleri;Prof.Dr. Ýbrahim Yücel ÖZBEK;4;7;67;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+EEM-106-50-50-AKTS;Lojik Devreler;Prof.Dr. Tevhit KARACALI;3;5;44;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+TDE-202-50-50-AKTS;Türk Dili II;Dr. Öðr. Üyesi Hamza KOLUKISA;2;1;99;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM-212-50-50-AKTS;Analog Elektronik Laboratuvarý;Dr. Öðr. Üyesi Ömer ÇOBAN;2;2;19;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM-204-50-50-AKTS;Devre Analizi;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;3;5;50;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM-202-50-50-AKTS;Elektrik Elektronik Mühendisliði Mat. Uygulamalarý;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;50;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM-206-50-50-AKTS;Elektromanyetik Alan Teorisi;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;4;6;51;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM-208-50-50-AKTS;Elektronik Devreler;Dr. Öðr. Üyesi Ömer ÇOBAN;3;4;62;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM-210-50-50-AKTS;Olasýlýk ve Rastlantý Deðiþkenleri;Prof.Dr. Ýbrahim Yücel ÖZBEK;3;4;52;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+MUH-SAY-50-50-AKTS;Sayýsal Yöntemler;Doç.Dr. Abdullah BAÞÇÝ;3;4;38;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM-312-50-50-AKTS;Mikroiþlemci Laboratuvarý;Dr. Öðr. Üyesi Emin Argun ORAL;2;2;73;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EEM-304-50-50-AKTS;Otomatik Kontrol;Doç.Dr. Abdullah BAÞÇÝ;3;5;70;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EEM-306-50-50-AKTS;Sayýsal Ýþaret Ýþleme;Dr. Öðr. Üyesi Emin Argun ORAL;3;5;66;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EEM-308-50-50-AKTS;Sayýsal Haberleþme;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;70;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EEM-310-50-50-AKTS;Yüksek Gerilim Tekniði ve Tesisi;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;4;63;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EEM-302-50-50-AKTS;Elektrik Makineleri;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;5;70;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Doç.Dr. Abdullah BAÞÇÝ;38;30;28;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EEM-408-50-50-AKTS;Bitirme Projesi II;Prof.Dr. Bülent ÇAVUÞOÐLU;2;2;10;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EES-404-50-50-AKTS;Elektrik Elektronik Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Ömer ÇOBAN;4;6;11;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EEM-406-50-50 (2018 ve Üzeri);Elektrik Makinelerý Laboratuvarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;2;3;11;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EEM-410-50-50 (2018 ve Üzeri);Elektrik Elektronik Mühendisliði Uygulamalarý;Doç.Dr. Abdullah BAÞÇÝ;3;4;11;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+ENM-104-50-50-AKTS;Bilgisayar Programlama II;Dr. Öðr. Üyesi Betül TURANOÐLU ÞÝRÝN;3;5;91;Endüstri Mühendisliði Programý;2
+MAT-102-50-50-AKTS;Matematik II;Prof.Dr. Abdullah KOPUZLU;4;6;77;Endüstri Mühendisliði Programý;2
+FIZ-102-50-50-AKTS;Fizik II;Prof.Dr. Yakup KURUCU;5;6;86;Endüstri Mühendisliði Programý;2
+MUH-MEK-50-50-AKTS;Mühendislik Mekaniðý;Prof.Dr. Ensar OÐUZ;3;4;109;Endüstri Mühendisliði Programý;2
+ENM-102-50-50-AKTS-2017-2018 ve Üzeri);Genel Ekonomi;Dr. Öðr. Üyesi Sinan ÖZTAÞ;3;4;90;Endüstri Mühendisliði Programý;2
+ENM-106-50-50-2017-2018 ve Üzeri);Olasýlýða Giriþ;Dr. Öðr. Üyesi Sinan ÖZTAÞ;3;4;92;Endüstri Mühendisliði Programý;2
+ENM-206-50-50-AKTS;Mühendislik Ýstatistiði;Prof.Dr. Cafer ÇELÝK;3;5;45;Endüstri Mühendisliði Programý;4
+ENM-208-50-50;Yöneylem Araþtýrmalarý I;Doç.Dr. Mustafa YILMAZ;2;4;71;Endüstri Mühendisliði Programý;4
+MUH-SAY-50-50-AKTS;Sayýsal Yöntemler;Doç.Dr. Gökay AKKAYA;3;4;69;Endüstri Mühendisliði Programý;4
+ENM-204-50-50-AKTS;Endüstri Mühendisliði Mat. Uyg.;Doç.Dr. Mustafa YILMAZ;3;4;126;Endüstri Mühendisliði Programý;4
+ENM-202-50-50-AKTS;Ýþbilimi;Doç.Dr. Elif KILIÇ DELÝCE;3;5;89;Endüstri Mühendisliði Programý;4
+ENM-210-50-50-AKTS;Sistem Analizi;Prof.Dr. Vecihi YÝÐÝT;2;3;76;Endüstri Mühendisliði Programý;4
+ENM-212-50-50-AKTS;Üretim Yöntemleri;Prof.Dr. Burak DÝKÝCÝ;3;4;71;Endüstri Mühendisliði Programý;4
+ENM-302-50-50-AKTS;Yöneylem Araþtýrmalarý III;Prof.Dr. Vecihi YÝÐÝT;3;5;89;Endüstri Mühendisliði Programý;6
+ENM-308-50-50-AKTS;Kalite Mühendisliði;Prof.Dr. Cafer ÇELÝK;3;5;66;Endüstri Mühendisliði Programý;6
+ENM-306-50-50-AKTS;Tesis Tasarýmý ve Planlamasý;Doç.Dr. Gökay AKKAYA;3;5;65;Endüstri Mühendisliði Programý;6
+ENM-310-50-50-AKTS;Üretim Planlama ve Kontrol;Dr. Öðr. Üyesi Yeþim OK;3;5;73;Endüstri Mühendisliði Programý;6
+ENM-304-50-50-AKTS;Üretim Sistemleri;Doç.Dr. Elif KILIÇ DELÝCE;3;5;72;Endüstri Mühendisliði Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Doç.Dr. Elif KILIÇ DELÝCE;38;30;13;Endüstri Mühendisliði Programý;8
+ENM-404-2018-50-50 (2018 ve Üzeri);Bitirme Projesi II;Dr. Öðr. Üyesi Yeþim OK;2;2;18;Endüstri Mühendisliði Programý;8
+ENM-410-50-50 (2018 ve Üzeri);Endüstri Mühendisliði Laboratuvarý;Dr. Öðr. Üyesi Yeþim OK;2;3;28;Endüstri Mühendisliði Programý;8
+ENS-404-50-50 (2018 ve Üzeri);Endüstri Mühendisliði Seçmeli Tasarým II;Doç.Dr. Elif KILIÇ DELÝCE;4;6;18;Endüstri Mühendisliði Programý;8
+ENM-412-50-50 (2018 ve Üzeri);Endüstri Mühendisliði Uygulamalarý;Prof.Dr. Cafer ÇELÝK;6;8;28;Endüstri Mühendisliði Programý;8
+ENM-206-50-50-AKTS;Mühendislik Ýstatistiði;Prof.Dr. Cafer ÇELÝK;3;5;9;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+ENM-208-50-50-AKTS;Yöneylem Araþtýrmalarý I;Doç.Dr. Mustafa YILMAZ;2;4;19;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+ENM-204-50-50-AKTS;Endüstri Mühendisliði Mat. Uyg.;Doç.Dr. Mustafa YILMAZ;3;4;22;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+ENM-202-50-50-AKTS;Ýþbilimi;Doç.Dr. Elif KILIÇ DELÝCE;3;5;18;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+MUH-SAY-50-ö.ö;Sayýsal Yöntemler;NULL;3;4;0;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+ENM-210-50-ö.ö;Sistem Analizi;Prof.Dr. Vecihi YÝÐÝT;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+ENM-302-50-50-AKTS;Yöneylem Araþtýrmalarý III;Prof.Dr. Vecihi YÝÐÝT;3;5;32;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ENM-308-50-50-AKTS;Kalite Mühendisliði;Prof.Dr. Cafer ÇELÝK;3;5;22;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ENM-310-50-50-AKTS;Üretim Planlama ve Kontrol;Dr. Öðr. Üyesi Yeþim OK;3;5;16;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ENM-304-50-50-AKTS;Üretim Sistemleri;Doç.Dr. Elif KILIÇ DELÝCE;3;5;15;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ENM-306-50-50-AKTS;Tesis Tasarýmý ve Planlamasý;Doç.Dr. Gökay AKKAYA;3;5;21;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ENS-302-50-50-AKTS;Çok Ölçütlü Karar Verme Problemleri;Dr. Öðr. Üyesi Erdem AKSAKAL;3;4;20;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Prof.Dr. Cafer ÇELÝK;38;30;13;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENS-404-50-50-AKTS;Endüstri Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Yeþim OK;4;6;6;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-404-50-50 (2018 ve Üzeri);Bitirme Projesi II;Prof.Dr. Cafer ÇELÝK;2;2;6;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-410-50-ö.ö ;Endüstri Mühendisliði Laboratuvarý;Dr. Öðr. Üyesi Betül TURANOÐLU ÞÝRÝN;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-412-50-ö.ö;Endüstri Mühendisliði Uygulamalarý;NULL;6;8;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+PHY-102-50-50 ;Physics II;Prof.Dr. Sebahattin TÜZEMEN;5;6;41;Bilgisayar Mühendisliði (Ýngilizce) Programý;2
+CEN-104-50-50;Object Oriented Programming;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;5;7;51;Bilgisayar Mühendisliði (Ýngilizce) Programý;2
+MTH-102-50-50;Mathematics II;Prof.Dr. Murat SUBAÞI;4;6;40;Bilgisayar Mühendisliði (Ýngilizce) Programý;2
+CEN-106-50-50;Linear Algebra;Prof.Dr. Murat SUBAÞI;3;5;39;Bilgisayar Mühendisliði (Ýngilizce) Programý;2
+CEN-102-50-50 ;Discrete Mathematics;Dr. Öðr. Üyesi Þeyma YÜCEL ALTAY;3;5;45;Bilgisayar Mühendisliði (Ýngilizce) Programý;2
+TDE-202-50-50;Turkish Language II;Öðr.Gör.Dr. Dilek AKAN BUDAK;2;1;27;Bilgisayar Mühendisliði (Ýngilizce) Programý;4
+CEN-202-50-50;Computer Organization & Design;Arþ.Gör.Dr. Faruk Baturalp GÜNAY;3;5;22;Bilgisayar Mühendisliði (Ýngilizce) Programý;4
+CEN-204-50-50;Advanced Programming;Arþ.Gör.Dr. Faruk Baturalp GÜNAY;3;5;22;Bilgisayar Mühendisliði (Ýngilizce) Programý;4
+CEN-210-50-50;Signals and Systems;Dr. Öðr. Üyesi Barýþ ÖZYER;3;4;27;Bilgisayar Mühendisliði (Ýngilizce) Programý;4
+ENG-STA-50-50;Statistics and Probability;Dr. Öðr. Üyesi Ahmet COÞKUNÇAY;3;4;27;Bilgisayar Mühendisliði (Ýngilizce) Programý;4
+CEN-206-50-50 ;Web Programming;Dr. Öðr. Üyesi Levent BAYINDIR;3;5;22;Bilgisayar Mühendisliði (Ýngilizce) Programý;4
+CEN-208-50-50;Electronic Circuits;Arþ.Gör.Dr. Faruk Baturalp GÜNAY;5;6;27;Bilgisayar Mühendisliði (Ýngilizce) Programý;4
+YDY-102-50-50-AKTS;Yabancý Dil II;Öðr.Gör.Dr. Meryem ODABAÞI;2;1;183;Bilgisayar Mühendisliði Programý;2
+MAT-102-50-50-AKTS;Matematik II;Prof.Dr. Tamer UÐUR;4;6;108;Bilgisayar Mühendisliði Programý;2
+FIZ-102-50-50-AKTS;Fizik II;Doç.Dr. Erdem ÞAKAR;5;6;114;Bilgisayar Mühendisliði Programý;2
+BIM-106-50-50-AKTS;Lineer Cebir;Prof.Dr. Ömer TARAKCI;3;5;117;Bilgisayar Mühendisliði Programý;2
+BIM-104-50-50-A;Nesneye Yönelik Programlama;Dr. Öðr. Üyesi Deniz DAL;5;7;64;Bilgisayar Mühendisliði Programý;2
+BIM-102-50-50 AKTS;Ayrýk Matematik;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;5;61;Bilgisayar Mühendisliði Programý;2
+TDE-202-50-50-AKTS;Türk Dili II;Öðr.Gör.Dr. Dilek AKAN BUDAK;2;1;193;Bilgisayar Mühendisliði Programý;4
+MUH-IST-50-50-AKTS;Ýstatistik ve Olasýlýk;Dr. Öðr. Üyesi Ahmet COÞKUNÇAY;3;4;107;Bilgisayar Mühendisliði Programý;4
+BIM-202-50-50-AKTS;Bilgisayar Organizasyonu ve Tasarýmý;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;5;126;Bilgisayar Mühendisliði Programý;4
+BIM-204-50-50-AKTS;Ýleri Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;3;5;106;Bilgisayar Mühendisliði Programý;4
+BIM-206-50-50-AKTS;Web Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;3;5;114;Bilgisayar Mühendisliði Programý;4
+BIM-208-50-50-AKTS;Elektronik Devreler;Prof.Dr. Köksal ERENTÜRK;5;6;108;Bilgisayar Mühendisliði Programý;4
+BIM-210-50-50-AKTS;Sinyaller ve Sistemler;Dr. Öðr. Üyesi Barýþ ÖZYER;3;4;52;Bilgisayar Mühendisliði Programý;4
+AIT-302-50-50-AKTS;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Tolga BAÞAK;2;1;102;Bilgisayar Mühendisliði Programý;6
+BIM-308-50-50-AKTS;Paralel Programlamaya Giriþ;Dr. Öðr. Üyesi Deniz DAL;3;5;86;Bilgisayar Mühendisliði Programý;6
+BIM-304-50-50-AKTS;Otomata Teorisi;Dr. Öðr. Üyesi Tolga AYDIN;3;5;77;Bilgisayar Mühendisliði Programý;6
+BIM-306-50-50-AKTS;Bilgisayar Aðlarý;Dr. Öðr. Üyesi Bilal USANMAZ;5;6;69;Bilgisayar Mühendisliði Programý;6
+BIM-310-50-50-AKTS;Kontrol Sistemleri;Dr. Öðr. Üyesi Barýþ ÖZYER;3;4;77;Bilgisayar Mühendisliði Programý;6
+BIM-302-50-50-AKTS;Algoritmalarýn Tasarým ve Analizi;Dr. Öðr. Üyesi Ferhat BOZKURT;3;5;91;Bilgisayar Mühendisliði Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Dr. Öðr. Üyesi Bilal USANMAZ;38;30;24;Bilgisayar Mühendisliði Programý;8
+BIM-406-50-50-AKTS;Bitirme Projesi II;Dr. Öðr. Üyesi Bilal USANMAZ;2;2;44;Bilgisayar Mühendisliði Programý;8
+BIS-404-50-50 (2018 ve Üzeri);Bilgisayar Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Bilal USANMAZ;4;6;28;Bilgisayar Mühendisliði Programý;8
+BIM-408-50-50 (2018 ve Üzeri);Bilgisayar Mühendisliði Laboratuvarý;Dr. Öðr. Üyesi Bilal USANMAZ;2;3;28;Bilgisayar Mühendisliði Programý;8
+BIM-410-50-50 (2018 ve Üzeri);Bilgisayar Mühendisliði Uygulamalarý;Arþ.Gör.Dr. Faruk Baturalp GÜNAY;3;4;28;Bilgisayar Mühendisliði Programý;8
+MAT-102-50-50-AKTS;Matematik II;Prof.Dr. Sezgin AKBULUT;4;6;103;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+YDY-102-50-50-AKTS;Yabancý Dil II;Öðr.Gör.Dr. Meryem ODABAÞI;2;1;113;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+FIZ-102-50-50-AKTS;Fizik II;Doç.Dr. Erdem ÞAKAR;5;6;93;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BIM-102-50-50-AKTS;Ayrýk Matematik;Dr. Öðr. Üyesi Ferhat BOZKURT;3;5;54;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BIM-106-50-50-AKTS;Lineer Cebir;Dr. Öðr. Üyesi Sait TAÞ;3;5;109;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BIM-104-50-50-A;Nesneye Yönelik Programlama;Dr. Öðr. Üyesi Deniz DAL;5;7;61;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+MUH-IST-50-50-AKTS;Ýstatistik ve Olasýlýk;Dr. Öðr. Üyesi Ahmet COÞKUNÇAY;3;4;67;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BIM-206-50-50-AKTS;Web Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;3;5;79;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BIM-204-50-50-AKTS;Ýleri Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;3;5;76;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BIM-202-50-50-AKTS;Bilgisayar Organizasyonu ve Tasarýmý;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;5;99;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BIM-208-50-50-AKTS;Elektronik Devreler;Prof.Dr. Köksal ERENTÜRK;5;6;75;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BIM-210-50-50-AKTS;Sinyaller ve Sistemler;Dr. Öðr. Üyesi Barýþ ÖZYER;3;4;44;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+AIT-302-50-50-AKTS;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Erdal AYDOÐAN;2;1;60;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIM-306-50-50-AKTS;Bilgisayar Aðlarý;Dr. Öðr. Üyesi Bilal USANMAZ;5;6;56;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIM-304-50-50-AKTS;Otomata Teorisi;Dr. Öðr. Üyesi Tolga AYDIN;3;5;58;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIM-308-50-50-AKTS;Paralel Programlamaya Giriþ;Dr. Öðr. Üyesi Deniz DAL;3;5;63;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIM-310-50-50-AKTS;Kontrol Sistemleri;Dr. Öðr. Üyesi Barýþ ÖZYER;3;4;62;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIM-302-50-50-AKTS;Algoritmalarýn Tasarým ve Analizi;Dr. Öðr. Üyesi Ferhat BOZKURT;3;5;58;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Dr. Öðr. Üyesi Bilal USANMAZ;38;30;9;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIS-404-50-50-AKTS-2018;Bilgisayar Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Levent BAYINDIR;4;6;13;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIM-408-50-50 (2018 ve Üzeri);Bilgisayar Mühendisliði Laboratuvarý;Dr. Öðr. Üyesi Bilal USANMAZ;2;3;13;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIM-410-50-50 (2018 ve Üzeri);Bilgisayar Mühendisliði Uygulamalarý;Arþ.Gör.Dr. Faruk Baturalp GÜNAY;3;4;12;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIM-406-50-50-AKTS;Bitirme Projesi II;Prof.Dr. Abdulsamet HAÞILOÐLU;2;2;39;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+MMM-106-50-50-AKTS;Cevher Hazýrlama ve Zenginleþtirme;NULL;2;4;0;Metalurji ve Malzeme Mühendisliði Programý;2
+MUH-UME (Sadece UME'ye Gidecek Öðr. Alacak);Uygulamalý Mühendislik Eðitimi;Dr. Öðr. Üyesi Yunus Emre BENKLÝ;38;30;2;Metalurji ve Malzeme Mühendisliði Programý;8
+YZM-102-50-50;Nesneye Yönelik Programlama;Dr. Öðr. Üyesi Esra ODABAÞ YILDIRIM;3;7;62;Yazýlým Mühendisliði Programý;2
+YZM-102-50-50;Ayrýk Matematik;Dr. Öðr. Üyesi Þeyma YÜCEL ALTAY;3;5;62;Yazýlým Mühendisliði Programý;2
+MAT-102-50-50;Matematik II;Prof.Dr. Nejmi CENGÝZ;4;6;62;Yazýlým Mühendisliði Programý;2
+FIZ-102-50-50;Fizik II;Prof.Dr. Mustafa SAÐLAM;5;6;62;Yazýlým Mühendisliði Programý;2
+MUH-IST-50-50;Ýstatistik ve Olasýlýk;Prof.Dr. Taner TEKÝN;3;4;62;Yazýlým Mühendisliði Programý;2
+BM-104-50-50-A-KREDÝ;Nesneye Yönelik Prog.;Dr. Öðr. Üyesi Deniz DAL;5;6;3;Bilgisayar Mühendisliði Programý;2
+MAT-102-50-50-KREDÝ;Matematik II;Prof.Dr. Tamer UÐUR;4;5;1;Bilgisayar Mühendisliði Programý;2
+BM-102-50-50-KREDÝ;Ayrýk Matematik;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;5;1;Bilgisayar Mühendisliði Programý;2
+OZD-102;Yabancý Dil II;Öðr.Gör.Dr. Meryem ODABAÞI;2;2;1;Bilgisayar Mühendisliði Programý;2
+BM-106-50-50-KREDÝ;Lineer Cebir;Prof.Dr. Ömer TARAKCI;3;5;3;Bilgisayar Mühendisliði Programý;2
+FIZ-102-50-50-KREDÝ;Fizik II;Doç.Dr. Erdem ÞAKAR;5;NULL;5;Bilgisayar Mühendisliði Programý;2
+BM-204-50-50-KREDÝ;Ýleri Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;5;6;2;Bilgisayar Mühendisliði Programý;4
+BM-202-50-50-KREDÝ;Bilg. Org. ve Tasarýmý;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;6;4;Bilgisayar Mühendisliði Programý;4
+MF-IST-50-50-KREDÝ;Ýstatistik ve Olasýlýk;Dr. Öðr. Üyesi Ahmet COÞKUNÇAY;3;0;2;Bilgisayar Mühendisliði Programý;2
+MF-IST-50-50-KREDÝ;Ýstatistik ve Olasýlýk;Dr. Öðr. Üyesi Ahmet COÞKUNÇAY;3;0;2;Bilgisayar Mühendisliði Programý;4
+BM-206-50-50-KREDÝ;Web Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;3;6;3;Bilgisayar Mühendisliði Programý;4
+BM-208-50-50-KREDÝ;Elektronik Devreler;Prof.Dr. Köksal ERENTÜRK;5;6;4;Bilgisayar Mühendisliði Programý;4
+OZD-202;Türk Dili II;Öðr.Gör.Dr. Dilek AKAN BUDAK;2;2;4;Bilgisayar Mühendisliði Programý;4
+BM-210-50-50-KREDÝ;Sayýsal Yöntemler;Dr. Öðr. Üyesi Ýlhan Volkan ÖNER;3;NULL;0;Bilgisayar Mühendisliði Programý;4
+BM-302-50-50-KREDÝ;Algoritma Tasarým ve Analizi;Dr. Öðr. Üyesi Ferhat BOZKURT;3;6;4;Bilgisayar Mühendisliði Programý;6
+BM-306-50-50-KREDÝ;Bilgisayar Aðlarý;Dr. Öðr. Üyesi Bilal USANMAZ;5;6;4;Bilgisayar Mühendisliði Programý;6
+BM-308-50-50-KREDÝ;PARALEL PROGRAMLAMAYA GÝRÝS;Dr. Öðr. Üyesi Deniz DAL;3;0;6;Bilgisayar Mühendisliði Programý;6
+BIM-402-50-50-2017-AKTS;Nesnelerin Ýnterneti;Dr. Öðr. Üyesi Bilal USANMAZ;3;5;15;Bilgisayar Mühendisliði Programý;8
+BIM-404-50-50-2017-AKTS;Bilgisayar Bilgi Güvenliði ve Yönetimi;Prof.Dr. Abdulsamet HAÞILOÐLU;3;5;15;Bilgisayar Mühendisliði Programý;8
+BIS-404-50-50-2017-AKTS;Bilgisayar Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Bilal USANMAZ;3;4;16;Bilgisayar Mühendisliði Programý;8
+BM-408-50-50-KREDÝ;Bitirme Projesi II;Dr. Öðr. Üyesi Bilal USANMAZ;2;NULL;3;Bilgisayar Mühendisliði Programý;8
+BMS-406-50-50-KREDÝ;Bilgisayar Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Bilal USANMAZ;3;3;3;Bilgisayar Mühendisliði Programý;8
+BM-402-50-50-KREDÝ;Otomata Teorisi;Dr. Öðr. Üyesi Tolga AYDIN;3;4;8;Bilgisayar Mühendisliði Programý;8
+BM-404-50-50-KREDÝ;KONTROL SÝSTEMLERÝ ;Dr. Öðr. Üyesi Barýþ ÖZYER;3;0;6;Bilgisayar Mühendisliði Programý;8
+OZD-302;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Erdal AYDOÐAN;2;2;3;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BM-102-50-50-KREDÝ;Ayrýk Matematik;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;5;2;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BM-306-KREDÝ;Bilgisayar Aðlarý;Dr. Öðr. Üyesi Bilal USANMAZ;5;6;3;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIS-404-50-50-AKTS-2017;Bilgisayar Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Levent BAYINDIR;3;4;27;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BMS-404-50-50;Bilgisayar Mühendisliði Seçmeli Tasarým II;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;3;3;6;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BM-202-50-50;Bilg. Org. ve Tasarýmý;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;6;1;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+ BM-408-50-50;Bitirme Projesi II;Prof.Dr. Abdulsamet HAÞILOÐLU;2;NULL;6;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BM-204-50-50;Ýleri Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;5;6;1;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BM-206-50-50;Web Programlama;Dr. Öðr. Üyesi Levent BAYINDIR;3;6;1;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BM-208-50-50-KREDÝ;Elektronik Devreler;Prof.Dr. Köksal ERENTÜRK;5;6;3;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BM-204-50-50;Veri Org. ve Yönetimi;Dr. Öðr. Üyesi Levent BAYINDIR;3;6;1;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+MAT-102-50-50;Matematik II;Prof.Dr. Sezgin AKBULUT;4;5;4;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+FIZ-102-50-50;Fizik II;Doç.Dr. Erdem ÞAKAR;5;NULL;3;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BM-106-50-50-KREDÝ;Lineer Cebir;Dr. Öðr. Üyesi Sait TAÞ;3;5;3;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+OZD-102;Yabancý Dil II;Öðr.Gör.Dr. Meryem ODABAÞI;2;2;5;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BM-402-50-50;Otomata Teorisi;Dr. Öðr. Üyesi Tolga AYDIN;3;4;8;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BM-404-50-50;KONTROL SÝSTEMLERÝ ;Dr. Öðr. Üyesi Barýþ ÖZYER;3;0;6;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BM-104-50-50-B;Nesneye Yönelik Prog.;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;5;6;5;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BM-308-50-50;PARALEL PROGRAMLAMAYA GÝRÝS;Dr. Öðr. Üyesi Deniz DAL;3;0;5;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIM-402-50-ö.ö;Nesnelerin Ýnterneti;Dr. Öðr. Üyesi Bilal USANMAZ;3;5;0;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIM-404-50-50-2017;Bilgisayar Bilgi Güvenliði ve Yönetimi;Prof.Dr. Abdulsamet HAÞILOÐLU;3;5;19;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+KIM-102-50-50-KREDÝ;Genel Kimya II;Dr. Öðr. Üyesi Zafer EKÝNCÝ;3;5;5;Kimya Mühendisliði Programý;2
+KIM-104-50-50-KREDÝ;Analitik Kimya;Doç.Dr. Hakan TEMÜR;3;5;4;Kimya Mühendisliði Programý;2
+KIM-106-50-50;Kimya Laboratuvarý;Dr. Öðr. Üyesi Zafer EKÝNCÝ;3;NULL;2;Kimya Mühendisliði Programý;2
+KM-204-50-50;Akýþkanlar Mekaniði;Doç.Dr. Mehmet YILMAZ;4;8;0;Kimya Mühendisliði Programý;4
+KM-206-50-50;Kimya Mühendisliðinde Sayýsal Yöntemler;Prof.Dr. Taner TEKÝN;3;6;0;Kimya Mühendisliði Programý;4
+KM-202-50-50;Kimyasal Proses Hesaplarý;Prof.Dr. Enes ÞAYAN;3;6;3;Kimya Mühendisliði Programý;3
+KM-202-50-50;Kimyasal Proses Hesaplarý;Prof.Dr. Enes ÞAYAN;3;6;3;Kimya Mühendisliði Programý;4
+KM-208-50-50;Mühendislik Termodinamiði;Prof.Dr. Soner KUÞLU;3;NULL;0;Kimya Mühendisliði Programý;4
+KM-304-50-50-KREDÝ;Kütle Transferi;Doç.Dr. Mehmet Emin ARZUTUÐ;3;5;6;Kimya Mühendisliði Programý;6
+KM-306-50-50;Kimya Reaksiyon Mühendisliði II;Doç.Dr. Jale NAKTÝYOK;3;NULL;6;Kimya Mühendisliði Programý;6
+KM-302-50-50;Kimya Mühendisliði Matematiksel Modelleme;Doç.Dr. Arzu KANCA;3;NULL;2;Kimya Mühendisliði Programý;6
+KM-308-50-50;Kimya Mühendisliði Laboratuvarý I;Prof.Dr. Bünyamin DÖNMEZ;4;NULL;3;Kimya Mühendisliði Programý;6
+KM-310-50-50;Profesyonel Geliþim;Prof.Dr. Fatih SEVÝM;3;3;3;Kimya Mühendisliði Programý;6
+KM-402-50-50;Ayýrma Ýþlemleri II;Dr. Öðr. Üyesi Hayrunnisa MAZLUMOÐLU;3;NULL;9;Kimya Mühendisliði Programý;8
+ KMS-404-50-50;Kimya Mühendisliði Seçmeli Tasarým II;Prof.Dr. Taner TEKÝN;4;0;5;Kimya Mühendisliði Programý;8
+KM-406-50-50;Kimyasal Teknolojiler;Prof.Dr. Osman Nuri ATA;4;NULL;3;Kimya Mühendisliði Programý;8
+KM-408-50-50;Kimya Mühendisliði Laboratuvarý III;Prof.Dr. Hüseyin OKUR;4;NULL;5;Kimya Mühendisliði Programý;8
+KM-410-50-50;Bitirme Projesi II;Prof.Dr. Fatih SEVÝM;2;NULL;4;Kimya Mühendisliði Programý;8
+KMM-402-50-50-2017-AKTS;Ayýrma Ýþlemleri II;Dr. Öðr. Üyesi Hayrunnisa MAZLUMOÐLU;3;6;2;Kimya Mühendisliði Programý;8
+KMM-408-50-50-2017-AKTS;Kimya Mühendisliði Laboratuvarý III;Prof.Dr. Ömer LAÇÝN;3;4;2;Kimya Mühendisliði Programý;8
+KMS-404-50-50-2017-AKTS;Kimya Mühendisliði Seçmeli Tasarým II;Prof.Dr. Taner TEKÝN;3;4;2;Kimya Mühendisliði Programý;8
+KMM-406-50-50-2017;Kimyasal Teknolojiler;Prof.Dr. Osman Nuri ATA;3;6;1;Kimya Mühendisliði Programý;8
+CM-106-50-50;Bilgisayar Destekli Teknik Resim;Prof.Dr. Yaþar TOTÝK;3;NULL;0;Çevre Mühendisliði Programý;2
+CM-102-50-50;Çevre Jeolojisi;Dr. Öðr. Üyesi Ýlker ACAR;3;NULL;0;Çevre Mühendisliði Programý;2
+CM-104-50-50;Çevre Mühendisliði Ekolojisi;Prof.Dr. Alper NUHOÐLU;3;NULL;0;Çevre Mühendisliði Programý;2
+CM-208-50-50;ÇevreMühendisligi Kimyasý II;Prof.Dr. Zeynep CEYLAN;3;NULL;3;Çevre Mühendisliði Programý;4
+CM-212-50-50;Hidrolik;Doç.Dr. Serkan BAYAR;3;3;5;Çevre Mühendisliði Programý;4
+CM-202-50-50;Sayýsal Yöntemler;Prof.Dr. Taner TEKÝN;3;NULL;2;Çevre Mühendisliði Programý;4
+CM-204-50-50;Çevre Mühendisliði Mikrobiyolojisi;Prof.Dr. Yalçýn Kemal BAYHAN;3;NULL;1;Çevre Mühendisliði Programý;4
+CM-206-50-50;Çevre Mühendisliði Taþýným Prosesleri;Doç.Dr. Serkan BAYAR;3;NULL;2;Çevre Mühendisliði Programý;4
+CM-210-50-50;Çevre Mühendisliði Kimyasý II Laboratuvarý;Doç.Dr. Þahset ÝRDEMEZ;2;NULL;0;Çevre Mühendisliði Programý;4
+CM-306-50-50;Çevre Mühendisliði Biyolojik Prosesler;Prof.Dr. Alper NUHOÐLU;3;5;2;Çevre Mühendisliði Programý;6
+CM-302-50-50;Hava Kirliliði Kontrolü;Prof.Dr. Hanefi BAYRAKTAR;3;0;3;Çevre Mühendisliði Programý;6
+CM-304-50-50;Sularýn Arýtýlmasý;Prof.Dr. Alper Erdem YILMAZ;3;NULL;4;Çevre Mühendisliði Programý;6
+CM-310-50-50;Çevre Mühendisliðinde Modelleme;Prof.Dr. Ergün YILDIZ;3;NULL;8;Çevre Mühendisliði Programý;6
+CM-308-50-50;Kanalizasyon Sist. Proj.;Prof.Dr. Alper Erdem YILMAZ;3;NULL;1;Çevre Mühendisliði Programý;6
+CM-312-50-50;Termodinamik;Prof.Dr. Ensar OÐUZ;3;5;4;Çevre Mühendisliði Programý;6
+CMS-4045-50-50-kredi;Çevre Mühendisliði Seçmeli Tasarýmý II;Doç.Dr. Þahset ÝRDEMEZ;3;6;6;Çevre Mühendisliði Programý;8
+CM-408-50-50-kredi;Çevre Mühendisliði Lab II;Prof.Dr. Murat Tolga YILMAZ;2;2;2;Çevre Mühendisliði Programý;8
+CM-412-50-50;Bitirme Projesi II;Prof.Dr. Ergün YILDIZ;2;NULL;3;Çevre Mühendisliði Programý;8
+MF-IGE-50-50;Ýþ Güvenliði ve Mühendislik Etiði;Doç.Dr. Þahset ÝRDEMEZ;2;NULL;10;Çevre Mühendisliði Programý;8
+CM-406-50-50;Endüstriyel Atýksu Arýtýlmasý;Prof.Dr. Okan Tarýk KOMESLÝ;3;0;3;Çevre Mühendisliði Programý;8
+MF-IGE-50-50;Ýþ Güvenliði ve Mühendislik Etiði;Doç.Dr. Þahset ÝRDEMEZ;2;NULL;14;Çevre Mühendisliði (Ý.Ö.) Programý;8
+MAT-102-50-50;Matematik II;Prof.Dr. Ömer TARAKCI;4;5;1;Ýnþaat Mühendisliði Programý;2
+IM-102-50-50-KREDÝ;Statik;Prof.Dr. Mehmet Hamit ÖZYAZICIOÐLU;3;5;9;Ýnþaat Mühendisliði Programý;2
+IM-106-50-50;Bilgisayar Destekli Teknik Resim;Dr. Öðr. Üyesi Ahmet ATALAY;3;NULL;1;Ýnþaat Mühendisliði Programý;2
+OZD-102;Yabancý Dil II;Öðr.Gör.Dr. Meryem ODABAÞI;2;2;3;Ýnþaat Mühendisliði Programý;2
+IM-202-50-50;Mühendislik Matematiði;Doç.Dr. Çaðlar ÖZER;3;5;2;Ýnþaat Mühendisliði Programý;4
+IM-204-50-50;Sayýsal Yöntemler;Dr. Öðr. Üyesi Fatma KARAGÖL;3;NULL;1;Ýnþaat Mühendisliði Programý;4
+IM-206-50-50-KREDÝ;Akýþkanlar Mekaniði;NULL;3;5;0;Ýnþaat Mühendisliði Programý;4
+IM-208-50-50;Mukavemet II;Doç.Dr. Fatih Mehmet ÖZKAL;3;NULL;2;Ýnþaat Mühendisliði Programý;4
+OZD-202;Türk Dili II;Öðr.Gör.Dr. Dilek AKAN BUDAK;2;2;3;Ýnþaat Mühendisliði Programý;4
+IM-210-50-50;Yapý Malzemesi;Prof.Dr. Ahmet Ferhat BÝNGÖL;3;NULL;1;Ýnþaat Mühendisliði Programý;4
+IM-212-50-50;Topoðrafya;Doç.Dr. Mahmut KILIÇ;3;NULL;1;Ýnþaat Mühendisliði Programý;4
+IM-302-50-50;Yapý Statiði II;Doç.Dr. Oðuz Akýn DÜZGÜN;3;NULL;4;Ýnþaat Mühendisliði Programý;6
+IM-304-50-50;Zemin Mekaniði II;Doç.Dr. Semet ÇELÝK;3;NULL;5;Ýnþaat Mühendisliði Programý;6
+IM-306-50-50;Demiryolu ve Toprak Ýþleri;Doç.Dr. Osman Ünsal BAYRAK;3;NULL;5;Ýnþaat Mühendisliði Programý;6
+IM-308-50-50;Betonarme I;Doç.Dr. Ahmet BUDAK;3;0;2;Ýnþaat Mühendisliði Programý;6
+IM-310-50-50;Hidroloji;Doç.Dr. Serkan ÞENOCAK;3;NULL;4;Ýnþaat Mühendisliði Programý;6
+IM-312-50-50;Temel Ýnþaatý;Prof.Dr. Ahmet Þahin ZAÝMOÐLU;3;NULL;6;Ýnþaat Mühendisliði Programý;6
+OZD-302;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Tolga BAÞAK;2;2;5;Ýnþaat Mühendisliði Programý;6
+INM-310-50-50-AKTS-2017;Hidroloji;Doç.Dr. Serkan ÞENOCAK;3;4;6;Ýnþaat Mühendisliði Programý;6
+INM-404-50-50-AKTS;Su Kaynaklarý;Prof.Dr. Reþat ACAR;3;5;10;Ýnþaat Mühendisliði Programý;8
+INM-406-50-50-2017;Yapý Ýþletme ve Þantiye Tekniði;Doç.Dr. Rýza POLAT;3;5;7;Ýnþaat Mühendisliði Programý;8
+INS-404-50-50-AKTS-2017;Ýnþaat Mühendisliði Seçmeli Tasarýmý II;Doç.Dr. Meral OLTULU;3;4;13;Ýnþaat Mühendisliði Programý;8
+IM-404-50-50;Su Kaynaklarý;Prof.Dr. Reþat ACAR;3;NULL;4;Ýnþaat Mühendisliði Programý;8
+IMS-404-50-50;Ýnþaat Mühendisliði Seçmeli Tasarýmý II;Doç.Dr. Meral OLTULU;3;6;8;Ýnþaat Mühendisliði Programý;8
+IM-408-50-50;Ýnþaat Mühendisliði Laboratuvarý II;Dr. Öðr. Üyesi Gökhan KAPLAN;2;NULL;8;Ýnþaat Mühendisliði Programý;8
+IM-410-50-50;Bitirme Projesi II;Prof.Dr. Reþat ACAR;2;NULL;8;Ýnþaat Mühendisliði Programý;8
+IM-102-50-50-KREDÝ;Statik;Prof.Dr. Mehmet Hamit ÖZYAZICIOÐLU;3;5;3;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+FIZ-102-50-50;Fizik II;Prof.Dr. Yakup KURUCU;5;NULL;3;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+IM-104-50-50;Ýnþaat Mühendisliði Ýçin Jeoloji;Dr. Öðr. Üyesi Zeynep Neþe KURT ALBAYRAK;3;NULL;1;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+IM-108-50-50;Yapý Bilgisi;Prof.Dr. Remzi ÞAHÝN;3;NULL;1;Ýnþaat Mühendisliði (Ý.Ö.) Programý;2
+IM-208-50-50;Mukavemet II;Doç.Dr. Fatih Mehmet ÖZKAL;3;NULL;7;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+IM-206-50-50-KREDÝ;Akýþkanlar Mekaniði;Dr. Öðr. Üyesi Selim ÞENGÜL;3;5;3;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+IM-202-50-50;Mühendislik Matematiði;Doç.Dr. Çaðlar ÖZER;3;5;2;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+IM-204-50-50;Sayýsal Yöntemler;Dr. Öðr. Üyesi Fatma KARAGÖL;3;NULL;2;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+IM-210-50-50;Yapý Malzemesi;Prof.Dr. Ahmet Ferhat BÝNGÖL;3;NULL;4;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+IM-212-50-50;Topoðrafya;Doç.Dr. Mahmut KILIÇ;3;NULL;3;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+OZD-202;Türk Dili II;Dr. Öðr. Üyesi Hamza KOLUKISA;2;2;3;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+IM-308-50-50;Betonarme I;Doç.Dr. Ahmet BUDAK;3;0;4;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+OZD-302;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Erdal AYDOÐAN;2;2;8;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+IM-302-50-50;Yapý Statiði II;Doç.Dr. Oðuz Akýn DÜZGÜN;3;NULL;11;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+IM-304-50-50;Zemin Mekaniði II;Doç.Dr. Semet ÇELÝK;3;NULL;8;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+IM-306-50-50;Demiryolu ve Toprak Ýþleri;Doç.Dr. Osman Ünsal BAYRAK;3;NULL;8;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+IM-310-50-50;Hidroloji;Doç.Dr. Serkan ÞENOCAK;3;NULL;6;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+IM-312-50-50;Temel Ýnþaatý;Prof.Dr. Ahmet Þahin ZAÝMOÐLU;3;NULL;11;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-310-50-50-AKTS;Hidroloji;Doç.Dr. Serkan ÞENOCAK;3;4;6;Ýnþaat Mühendisliði (Ý.Ö.) Programý;6
+INM-404-50-50;Su Kaynaklarý;Prof.Dr. Reþat ACAR;3;5;11;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INS-404-50-50-2017;Ýnþaat Mühendisliði Seçmeli Tasarýmý II;Prof.Dr. Habib UYSAL;3;4;20;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+MUH-IS2-50-50-2017;Ýþ Saðlýðý ve Güvenliði II;Doç.Dr. Þahset ÝRDEMEZ;2;1;63;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+IM-404-50-50;Su Kaynaklarý;Prof.Dr. Reþat ACAR;3;NULL;10;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+IMS-404-50-50;Ýnþaat Mühendisliði Seçmeli Tasarýmý II;Prof.Dr. Mahir GÖKDAÐ;3;6;12;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+IM-408-50-50;Ýnþaat Mühendisliði Laboratuvarý II;Dr. Öðr. Üyesi Gökhan KAPLAN;2;NULL;10;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+IM-410-50-50;Bitirme Projesi II;Prof.Dr. Habib UYSAL;2;NULL;12;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INM-406-50-50-2017;Yapý Ýþletme ve Þantiye Tekniði;Doç.Dr. Rýza POLAT;3;5;20;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+MAT-102-50-50;Matematik II;Dr. Öðr. Üyesi Nazlý KARACA;4;5;6;Makine Mühendisliði Programý;2
+ FIZ-102-50-50;Fizik II;Prof.Dr. Lütfü DEMÝR;5;NULL;1;Makine Mühendisliði Programý;2
+MM-102-50-50-KREDÝ;Statik;Dr. Öðr. Üyesi Yakup UZUN;3;5;4;Makine Mühendisliði Programý;2
+MM-104-50-50;Ölçme Tekniði ve Deðerlendirme;Dr. Öðr. Üyesi Yakup UZUN;2;5;5;Makine Mühendisliði Programý;2
+MF-IST-50-50;Ýstatistik ve Olasýlýk;Doç.Dr. Halim KOVACI;3;0;9;Makine Mühendisliði Programý;2
+MM-106-50-50;Bilgisayar Destekli Teknik Resim;Prof.Dr. Yaþar TOTÝK;4;4;4;Makine Mühendisliði Programý;2
+FIZ-102-50-50;Physics II;Prof.Dr. Lütfü DEMÝR;5;NULL;2;Makine Mühendisliði Programý;2
+MM-102-50-50;Statics;Dr. Öðr. Üyesi Yakup UZUN;3;NULL;2;Makine Mühendisliði Programý;2
+MM-206-50-50;Akýþkanlar Mekaniði I;Dr. Öðr. Üyesi Erdoðan GÜNER;3;NULL;2;Makine Mühendisliði Programý;4
+MM-210-50-50;Ýmal Usulleri I;Prof.Dr. Mehmet KARAKAN;3;NULL;6;Makine Mühendisliði Programý;4
+MM-214-50-50;Makina Mühendisliði Matematik Uyg.;Dr. Öðr. Üyesi Ýlhan Volkan ÖNER;3;NULL;8;Makine Mühendisliði Programý;4
+MM-208-50-50;Mukavemet II;Prof. Hamit AKBULUT;3;NULL;10;Makine Mühendisliði Programý;4
+MM-204-50-50;Mühendislik Malzemeleri;Prof.Dr. Ýhsan EFEOÐLU;3;5;5;Makine Mühendisliði Programý;4
+ MM-212-50-50-A;Termodinamik II;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;NULL;6;Makine Mühendisliði Programý;4
+MM-204-50-50a;Sayýsal Yöntemler;Prof.Dr. Ömer GÜNDOÐDU;3;NULL;4;Makine Mühendisliði Programý;4
+MM-204-50-50;Engineering Materials;Prof.Dr. Ýhsan EFEOÐLU;3;NULL;0;Makine Mühendisliði Programý;4
+MM-202-50-50;Numerical Analysis;Prof.Dr. Ömer GÜNDOÐDU;3;4;0;Makine Mühendisliði Programý;4
+MM-212-50-50;Thermodynamics II;NULL;3;NULL;0;Makine Mühendisliði Programý;4
+MF-EKO-50-50;Mühendislik Ekonomisi;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;3;5;8;Makine Mühendisliði Programý;6
+MM-304-50-50;Isý Transferi II;Prof.Dr. Ýsak KOTCÝOÐLU;3;NULL;18;Makine Mühendisliði Programý;6
+MM-302-50-50;Makina Elemanlarý II;Doç.Dr. Halim KOVACI;3;0;9;Makine Mühendisliði Programý;6
+ MM-306-50-50;Makine Teorisi II;Prof.Dr. Mustafa YAMAN;3;0;5;Makine Mühendisliði Programý;6
+MM-310-50-50;Proje Tasarým Esaslarý;Prof.Dr. Ýhsan EFEOÐLU;1;1;7;Makine Mühendisliði Programý;6
+MM-308-50-50-KREDÝ;Isýtma Havalandýrma ve Ýklimlendirme;Prof.Dr. Kadir BÝLEN;3;5;4;Makine Mühendisliði Programý;6
+MM-304-50-50;Heat Transfer II;Dr. Öðr. Üyesi Faruk YEÞÝLDAL;3;5;5;Makine Mühendisliði Programý;6
+MM-306-50-50;Teory of Machnes II;Prof.Dr. Mustafa YAMAN;3;5;3;Makine Mühendisliði Programý;6
+MKM-406-50-50-2017-AKTS;Enerji Dönüþüm Sistemleri;Prof.Dr. Ýsmail SOLMAZ;3;5;16;Makine Mühendisliði Programý;8
+MKM-404-50-50-2017;Makine Mühendisliði Laboratuvarý II;Dr. Öðr. Üyesi Erdoðan GÜNER;2;4;25;Makine Mühendisliði Programý;8
+MKS-404-50-50-2017;Makine Mühendisliði Seçmeli Tasarým II;Prof.Dr. Ýsmail SOLMAZ;3;6;26;Makine Mühendisliði Programý;8
+ MM-404-50-50;Makine Laboratuvarý II;Dr. Öðr. Üyesi Erdoðan GÜNER;2;4;13;Makine Mühendisliði Programý;8
+MMS-402-50-50;Makine Ana Seçmeli Tasarýmý II;Prof.Dr. Ýsmail SOLMAZ;3;6;24;Makine Mühendisliði Programý;8
+MM-406-50-50-2016-KREDÝ;Enerji Dönüþüm Sistemleri;Prof.Dr. Ýsmail SOLMAZ;3;5;9;Makine Mühendisliði Programý;8
+MM-408-50-50 ;Bitirme Projesi II;Prof.Dr. Ýsmail SOLMAZ;2;NULL;22;Makine Mühendisliði Programý;8
+MM-406-50-50;Energy Conversion System;Prof.Dr. Ýsmail SOLMAZ;3;4;1;Makine Mühendisliði Programý;8
+MKM-408-50-50-AKTS;Makine Mühendisliði Uygulamalarý;Dr. Öðr. Üyesi Ahmet Numan ÖZAKIN;3;4;30;Makine Mühendisliði Programý;8
+MM-106-50-Ö.Ö;Bilgisayar Destekli Teknik Resim;NULL;4;4;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MF-IST-50-ö.ö;Ýstatistik ve Olasýlýk;NULL;3;0;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MM-104-50-ö.ö;Ölçme Tekniði ve Deðerlendirme;NULL;2;5;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MM-102-50-Ö.Ö;Statik;NULL;3;5;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MM-206-50-Ö.Ö;Akýþkanlar Mekaniði I;NULL;3;NULL;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-204-50-50;Mühendislik Malzemeleri;Prof.Dr. Ýhsan EFEOÐLU;3;5;7;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-208-50-50;Mukavemet II;Prof. Hamit AKBULUT;3;NULL;11;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-212-50-Ö.Ö;Termodinamik II;NULL;3;NULL;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-210-50-50;Ýmal Usulleri I;Prof.Dr. Mehmet KARAKAN;3;NULL;14;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-214-50-ö.ö;Makina Mühendisliði Matematik Uyg.;NULL;3;NULL;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+ MM-202-50-ö.ö;Sayýsal Yöntemler;NULL;3;NULL;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-302-50-50;Makina Elemanlarý II;Prof.Dr. Sadri ÞEN;3;0;17;Makine Mühendisliði (Ý.Ö.) Programý;6
+ MM-304-50-50;Isý Transferi II;Prof.Dr. Ýsak KOTCÝOÐLU;3;NULL;18;Makine Mühendisliði (Ý.Ö.) Programý;6
+ MM-306-50-50;Makine Teorisi II;Prof.Dr. Mustafa YAMAN;3;0;7;Makine Mühendisliði (Ý.Ö.) Programý;6
+MM-308-50-50;Isýtma Havalandýrma ve Ýklimlendirme;Prof.Dr. Kadir BÝLEN;3;5;21;Makine Mühendisliði (Ý.Ö.) Programý;6
+MF-EKO-50-50;Mühendislik Ekonomisi;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;3;5;21;Makine Mühendisliði (Ý.Ö.) Programý;6
+MM-310-50-50;Proje Tasarým Esaslarý;Prof.Dr. Ýhsan EFEOÐLU;1;1;9;Makine Mühendisliði (Ý.Ö.) Programý;6
+MMS-402-50-50;Makine Ana Seçmeli Tasarýmý II;Doç.Dr. Sinan SEZEK;3;6;16;Makine Mühendisliði (Ý.Ö.) Programý;8
+ MM-404-50-50;Makine Laboratuvarý II;Dr. Öðr. Üyesi Erdoðan GÜNER;2;4;12;Makine Mühendisliði (Ý.Ö.) Programý;8
+MM-406-50-ö.ö;Enerji Dönüþüm Sistemleri;NULL;3;5;0;Makine Mühendisliði (Ý.Ö.) Programý;8
+ MM-408-50-50;Bitirme Projesi II;Prof.Dr. Yaþar TOTÝK;2;NULL;15;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKM-406-50-ö,ö;Enerji Dönüþüm Sistemleri;NULL;3;5;0;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKM-404-50-50-2017;Makine Mühendisliði Laboratuvarý II;Dr. Öðr. Üyesi Erdoðan GÜNER;2;4;16;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKS-404-50-50-2017;Makine Mühendisliði Seçmeli Tasarým II;Prof.Dr. Ömer GÜNDOÐDU;3;6;17;Makine Mühendisliði (Ý.Ö.) Programý;8
+MM-102-50-50;Statics;NULL;3;NULL;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MF-ÝST-50-50;Statistics and Probability;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+FÝZ-102-50-50;Physics II;NULL;5;NULL;0;Makine Mühendisliði (Ý.Ö.) Programý;2
+MM-202-50-50;Numerical Analysis;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-212-50-50;Thermodynamics II;NULL;3;NULL;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-204-50-50;Engineering Materials;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;4
+MM-304-50-ö.ö;Heat Transfer II;NULL;3;5;0;Makine Mühendisliði (Ý.Ö.) Programý;6
+MM-306-50-ö.ö;Teory of Machnes II;NULL;3;5;0;Makine Mühendisliði (Ý.Ö.) Programý;6
+MM-406-ö.ö;Energy Conversion System;NULL;3;4;0;Makine Mühendisliði (Ý.Ö.) Programý;8
+EE-104-50-50;Görsel Programlama;Öðr.Gör. Atakan ABUÞOÐLU;3;NULL;1;Elektrik-Elektronik Mühendisliði Programý;2
+MF-IST-50-50;Ýstatistik ve Olasýlýk;Prof.Dr. Taner TEKÝN;3;0;1;Elektrik-Elektronik Mühendisliði Programý;2
+EE-214-50-50;Analog Elektronik Laboratuvarý;Dr. Öðr. Üyesi Ömer ÇOBAN;2;NULL;2;Elektrik-Elektronik Mühendisliði Programý;4
+EE-204-50-50;Applications of E-E Eng. Math.;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;2;Elektrik-Elektronik Mühendisliði Programý;4
+EE-206-50-50-KREDÝ;Devre Analizi;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;3;5;18;Elektrik-Elektronik Mühendisliði Programý;4
+EE-212-50-50;Electronic Circuits;Dr. Öðr. Üyesi Ömer ÇOBAN;3;4;3;Elektrik-Elektronik Mühendisliði Programý;4
+EE-304-50-50;Otomotik Kontrol;Doç.Dr. Abdullah BAÞÇÝ;3;NULL;3;Elektrik-Elektronik Mühendisliði Programý;6
+EE-308-50-50;Digital Telecommunications;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;3;Elektrik-Elektronik Mühendisliði Programý;6
+EE-312-50-50;Microproc. Lab.;Dr. Öðr. Üyesi Emin Argun ORAL;2;2;1;Elektrik-Elektronik Mühendisliði Programý;6
+EE-302-50-50;Elektrik Makinalarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;NULL;2;Elektrik-Elektronik Mühendisliði Programý;6
+EE-310-50-50;Elektrik Makinalarý Laboratuvarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;2;1;5;Elektrik-Elektronik Mühendisliði Programý;6
+EE-306-50-50-KREDÝ;Sayýsal Ýþaret Ýþleme;Dr. Öðr. Üyesi Emin Argun ORAL;3;5;15;Elektrik-Elektronik Mühendisliði Programý;6
+EE-314-50-50 ;Yüksek Gerilim Teknik ve Tesisi;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;0;1;Elektrik-Elektronik Mühendisliði Programý;6
+EE-408-50-50;Bitirme Projesi II;Prof.Dr. Tevhit KARACALI;2;NULL;3;Elektrik-Elektronik Mühendisliði Programý;8
+EES-404-50-50;Elektrik Elektronik Mühendisliði Seçmeli Tasarýmý II;Prof.Dr. Tevhit KARACALI;3;6;3;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-404-50-50-2017;Güç Elektroniði;Doç.Dr. Abdullah BAÞÇÝ;3;4;16;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-408-50-50-2017;Bitirme Projesi II;Prof.Dr. Tevhit KARACALI;2;3;24;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-406-50-50-2017;Elektrik Makineleri Laboratuvarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;2;2;21;Elektrik-Elektronik Mühendisliði Programý;8
+EES-404-50-50-2017;Elektrik Elektronik Seçmeli Tasarým II;Prof.Dr. Tevhit KARACALI;3;5;24;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-402-50-50;Tümleþik Devre Tasarýmý;Prof.Dr. Hasan EFEOÐLU;3;4;9;Elektrik-Elektronik Mühendisliði Programý;8
+EE-102-50-50;Fundamentals Of Elect. Cýrcuýts;Prof.Dr. Ýbrahim Yücel ÖZBEK;4;7;1;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+FÝZ-102-50-50;Physics II;NULL;5;NULL;1;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+MAT-102-50-50;Matematik II;Prof.Dr. Ekrem KADIOÐLU;4;5;4;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+EE-104-50-50;Görsel Programlama;NULL;3;NULL;0;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+MF-IST-50-50;Ýstatistik ve Olasýlýk;Prof.Dr. Taner TEKÝN;3;0;3;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;2
+EE-208-50-50;Lojik Devreler;Prof.Dr. Tevhit KARACALI;3;NULL;2;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-214-50-50;Analog Elektronik Laboratuvarý;Dr. Öðr. Üyesi Ömer ÇOBAN;2;NULL;2;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+OZD-202;Türk Dili II;Dr. Öðr. Üyesi Hamza KOLUKISA;2;2;2;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-204-50-50;Applications of E-E Eng. Math.;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;3;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-206-50-50;Devre Analizi;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;3;5;6;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-212-50-50;Electronic Circuits;Dr. Öðr. Üyesi Ömer ÇOBAN;3;4;4;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-210-50-50;Elektromagnetik Alan Teorisi;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;4;NULL;3;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-202-50-50;Sayýsal Yöntemler;Doç.Dr. Abdullah BAÞÇÝ;3;NULL;2;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-212-50-50;Elektronik Devreler;Dr. Öðr. Üyesi Ömer ÇOBAN;3;NULL;1;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EE-304-50-50;Otomotik Kontrol;Doç.Dr. Abdullah BAÞÇÝ;3;NULL;4;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EE-308-50-50;Digital Telecommunications;Prof.Dr. Bülent ÇAVUÞOÐLU;3;4;5;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EE-312-50-50;Microproc. Lab.;Dr. Öðr. Üyesi Emin Argun ORAL;2;2;6;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EE-302-50-50;Elektrik Makinalarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;NULL;7;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EE-306-50-50-KREDÝ;Sayýsal Ýþaret Ýþleme;Dr. Öðr. Üyesi Emin Argun ORAL;3;5;14;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EE-310-50-50;Elektrik Makinalarý Laboratuvarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;2;1;9;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EE-314-50-50;Yüksek Gerilim Teknik ve Tesisi;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;0;5;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EE-404-50-50;Elektrik Elektronik Mühendisliði Seçmeli Tasarýmý II;Dr. Öðr. Üyesi Ömer ÇOBAN;3;6;6;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EE-408-50-50;Bitirme Projesi II;Prof.Dr. Bülent ÇAVUÞOÐLU;2;NULL;6;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EE-406;Design of Integrated Circuits;Prof.Dr. Hasan EFEOÐLU;3;5;6;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EEM 404-AKTS;Güç Elektroniði;Doç.Dr. Abdullah BAÞÇÝ;3;4;17;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EEM 402;Tümleþik Devre Tasarýmý;Prof.Dr. Hasan EFEOÐLU;3;4;22;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EEM 408-50-50-2017-AKTS;Bitirme Projesi II;Prof.Dr. Bülent ÇAVUÞOÐLU;2;3;23;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EEM 406-50-50-2017-AKTS;Elektrik Makineleri Laboratuvarý;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;2;2;19;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EES 404-50-50-2017;Elektrik Elektronik Seçmeli Tasarým II;Dr. Öðr. Üyesi Ömer ÇOBAN;3;5;25;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EM-104-50-50;Bilgisayar Programlama II;Dr. Öðr. Üyesi Betül TURANOÐLU ÞÝRÝN;3;NULL;1;Endüstri Mühendisliði Programý;2
+MF-MEK-50-50;Mühendislik Mekaniðý;Prof.Dr. Ensar OÐUZ;3;NULL;4;Endüstri Mühendisliði Programý;2
+EM-102-50-50-KREDÝ;Genel Ekonomi;Dr. Öðr. Üyesi Sinan ÖZTAÞ;3;4;0;Endüstri Mühendisliði Programý;2
+EM-208-50-50;Yöneylem Araþtýrmasý I;Dr. Öðr. Üyesi Erdem AKSAKAL;2;NULL;1;Endüstri Mühendisliði Programý;4
+EM-214-50-50;Ýþbilimi;Doç.Dr. Elif KILIÇ DELÝCE;3;NULL;2;Endüstri Mühendisliði Programý;4
+EM-206-50-50;Mühendislik Ýstatistiði;Prof.Dr. Cafer ÇELÝK;3;NULL;2;Endüstri Mühendisliði Programý;4
+EM-202-50-50;Sayýsal Yöntemler;Doç.Dr. Gökay AKKAYA;3;NULL;3;Endüstri Mühendisliði Programý;4
+EM-204-50-50;Endüstri Mühendisliði Mat. Uyg.;Doç.Dr. Mustafa YILMAZ;3;NULL;1;Endüstri Mühendisliði Programý;4
+EM-210-50-50;Sistem Analizi;Prof.Dr. Vecihi YÝÐÝT;2;0;3;Endüstri Mühendisliði Programý;4
+EM-212-50-50;Üretim Yöntemleri;Prof.Dr. Burak DÝKÝCÝ;3;NULL;4;Endüstri Mühendisliði Programý;4
+EM-302-50-50;Yöneylem Araþtýrmasý III;Prof.Dr. Vecihi YÝÐÝT;3;NULL;4;Endüstri Mühendisliði Programý;6
+EM-304-50-50;Üretim Sistemleri;Doç.Dr. Elif KILIÇ DELÝCE;3;NULL;2;Endüstri Mühendisliði Programý;6
+EM-306-50-50;Tesis Tasarýmý ve Planlamasý;NULL;3;NULL;0;Endüstri Mühendisliði Programý;6
+ EM-308-50-50;Kalite Mühendisliðine Giriþ;Prof.Dr. Cafer ÇELÝK;3;NULL;1;Endüstri Mühendisliði Programý;6
+EM-310-50-50;Üretim Planlama ve Kontrol;Dr. Öðr. Üyesi Yeþim OK;3;NULL;3;Endüstri Mühendisliði Programý;6
+EMS-404-50-50;Endüstri Mühendisliði Seçmeli Tasarýmý II;Dr. Öðr. Üyesi Yeþim OK;3;6;11;Endüstri Mühendisliði Programý;8
+EM-408-50-50;Bitirme Projesi II;Dr. Öðr. Üyesi Yeþim OK;2;NULL;11;Endüstri Mühendisliði Programý;8
+EM-406-50-50;Bilgisayar Bütünleþik Üretim;Dr. Öðr. Üyesi Ruhi YEÞÝLDAL;3;NULL;8;Endüstri Mühendisliði Programý;8
+EM-402-50-50;Yönetim Bilgi Sistemleri;Dr. Öðr. Üyesi Yeþim OK;3;0;5;Endüstri Mühendisliði Programý;8
+ENM-402-50-50-2017;Yönetim Bilgi Sistemleri;Dr. Öðr. Üyesi Yeþim OK;3;5;15;Endüstri Mühendisliði Programý;8
+ENM-406-50-50-2017;Ýþ Deðerleme ve Performans Yönetimi;Dr. Öðr. Üyesi Betül TURANOÐLU ÞÝRÝN;3;4;16;Endüstri Mühendisliði Programý;8
+ENM-408-50-50;Lojistik Bilgi Sistemleri;Dr. Öðr. Üyesi Erdem AKSAKAL;3;4;14;Endüstri Mühendisliði Programý;8
+ENS-404-50-50-2017;Endüstri Mühendisliði Seçmeli Tasarýmý II;Doç.Dr. Elif KILIÇ DELÝCE;3;5;21;Endüstri Mühendisliði Programý;8
+ENM-404-50-50-2017;Bitirme Projesi II;Dr. Öðr. Üyesi Yeþim OK;2;3;21;Endüstri Mühendisliði Programý;8
+EM-206-50-50;Mühendislik Ýstatistiði;Prof.Dr. Cafer ÇELÝK;3;NULL;2;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+EM-208-50-50;Yöneylem Araþtýrmasý I;Doç.Dr. Mustafa YILMAZ;2;NULL;4;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+EM-210-50-ö.ö;Sistem Analizi;Prof.Dr. Vecihi YÝÐÝT;2;0;0;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+EM-202-50-ö.ö;Sayýsal Yöntemler;NULL;3;NULL;0;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+EM-214-50-50;Ýþbilimi;Doç.Dr. Elif KILIÇ DELÝCE;3;NULL;1;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+EM-204-50-50;Endüstri Mühendisliði Mat. Uyg.;Doç.Dr. Mustafa YILMAZ;3;NULL;2;Endüstri Mühendisliði (Ý.Ö.) Programý;4
+EM-302-50-50;Yöneylem Araþtýrmasý III;Prof.Dr. Vecihi YÝÐÝT;3;NULL;4;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ EM-308-50-50;Kalite Mühendisliðine Giriþ;Prof.Dr. Cafer ÇELÝK;3;NULL;3;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+EM-310-50-50;Üretim Planlama ve Kontrol;Dr. Öðr. Üyesi Yeþim OK;3;NULL;3;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+EM-304-50-50;Üretim Sistemleri;Doç.Dr. Elif KILIÇ DELÝCE;3;NULL;0;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+EM-306-50-50;Tesis Tasarýmý ve Planlamasý;Doç.Dr. Gökay AKKAYA;3;NULL;6;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+EMS-404-50-50;Endüstri Mühendisliði Seçmeli Tasarýmý II;Dr. Öðr. Üyesi Betül TURANOÐLU ÞÝRÝN;3;6;8;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EM-406-50-ö.ö;Bilgisayar Bütünleþik Üretim;NULL;3;NULL;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EM-408-50-50;Bitirme Projesi II;Prof.Dr. Cafer ÇELÝK;2;NULL;8;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EM-402-50-50;Yönetim Bilgi Sistemleri;Dr. Öðr. Üyesi Yeþim OK;3;0;9;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-406-50-50-2017;Ýþ Deðerleme ve Performans Yönetimi;Dr. Öðr. Üyesi Betül TURANOÐLU ÞÝRÝN;3;4;17;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-408-50-50-2017;Lojistik Bilgi Sistemleri;Dr. Öðr. Üyesi Erdem AKSAKAL;3;4;16;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENS-404-50-50-2017;Endüstri Mühendisliði Seçmeli Tasarýmý II;Dr. Öðr. Üyesi Yeþim OK;3;5;20;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-404-50-50;Bitirme Projesi II;Prof.Dr. Cafer ÇELÝK;2;3;20;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-402-50-50;Yönetim Bilgi Sistemleri;Dr. Öðr. Üyesi Yeþim OK;3;5;14;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+MET-104-50-50;Fiziksel Kimya;Prof.Dr. Derya TEKÝN;2;3;0;Metalurji ve Malzeme Mühendisliði Programý;2
+MET-106-50-50;Ham. Ve Cevher Hazýrlama;Doç.Dr. Gülþen TOZSÝN;2;3;0;Metalurji ve Malzeme Mühendisliði Programý;2
+FIZ-102-50-50;Fizik II;Prof.Dr. Mustafa SAÐLAM;5;NULL;0;Metalurji ve Malzeme Mühendisliði Programý;2
+MET-206-50-50;Malzeme II;Prof.Dr. Kadri Vefa EZÝRMÝK;3;6;4;Metalurji ve Malzeme Mühendisliði Programý;4
+MET-208-50-50;Katýlaþma Faz Diyagramlarý;Doç.Dr. Çaðlar YÜKSEL;3;4;1;Metalurji ve Malzeme Mühendisliði Programý;4
+MTS-202-50-50;Korozyon ve Korozyondan Korunma;NULL;3;4;0;Metalurji ve Malzeme Mühendisliði Programý;4
+MET-210-50-50;Met. Termodinamiði;Dr. Öðr. Üyesi Güzide Meltem LÜLE ÞENÖZ;3;4;1;Metalurji ve Malzeme Mühendisliði Programý;4
+MET-204-50-50;Üretim Met. Prensipleri;Dr. Öðr. Üyesi Yunus Emre BENKLÝ;6;6;1;Metalurji ve Malzeme Mühendisliði Programý;4
+MET-304-50-50;Malzeme Karakterizasyonu;Prof.Dr. Kadri Vefa EZÝRMÝK;5;5;4;Metalurji ve Malzeme Mühendisliði Programý;6
+MET-306-50-50-KREDÝ;Demir Çelik Üretimi;Dr. Öðr. Üyesi Yunus Emre BENKLÝ;3;5;2;Metalurji ve Malzeme Mühendisliði Programý;6
+MET-310-50-50-KREDÝ;Malzeme Laboratuarý;Dr. Öðr. Üyesi Mehmet Kürþat DÝLMAÇ;3;3;2;Metalurji ve Malzeme Mühendisliði Programý;6
+MET-308-50-50-KREDÝ;Metalurjik Yakýtlar ve Hammaddeler;Dr. Öðr. Üyesi Güzide Meltem LÜLE ÞENÖZ;2;3;2;Metalurji ve Malzeme Mühendisliði Programý;6
+MET-302-50-50;Plastik Þekil verme;Prof.Dr. Burak DÝKÝCÝ;2;3;5;Metalurji ve Malzeme Mühendisliði Programý;6
+MTS-408-50-50;Metalurji Malzeme Mühendisliði Seçmeli Tasarým II;Prof.Dr. Burak DÝKÝCÝ;4;6;2;Metalurji ve Malzeme Mühendisliði Programý;8
+MET-406-50-50;Bitirme Projesi II;Prof.Dr. Burak DÝKÝCÝ;2;NULL;2;Metalurji ve Malzeme Mühendisliði Programý;8
+MET-404-50-50-KREDÝ;Refrakter Malzemeler;Dr. Öðr. Üyesi Mehmet Kürþat DÝLMAÇ;2;3;3;Metalurji ve Malzeme Mühendisliði Programý;8
+MET-402-50-50-KREDÝ;Seramik ve Kompozit Malzemeler;Prof.Dr. Derya TEKÝN;2;3;5;Metalurji ve Malzeme Mühendisliði Programý;8
+MTS-402-50-50;Endüstriyel Hammaddeler;Dr. Öðr. Üyesi Mustafa Engin KOCADAÐÝSTAN;3;0;4;Metalurji ve Malzeme Mühendisliði Programý;8
+MKS-302-50-50-AKTS;Hidrolik Pnomatik Sistemler;Prof.Dr. Kenan YAKUT;3;5;46;Makine Mühendisliði Programý;6
+MKS-302-50-50;Algoritma Geliþtirme ve Programlama;Prof.Dr. Sadri ÞEN;3;5;42;Makine Mühendisliði Programý;6
+MMS-310-50-50;Algoritma Geliþtirme Programlama;Prof.Dr. Sadri ÞEN;3;4;5;Makine Mühendisliði Programý;6
+MMS-310-50-50-KREDÝ;Hidrolik Pnomatik Sistemler;Prof.Dr. Kenan YAKUT;3;4;11;Makine Mühendisliði Programý;6
+MUH-USS-50-50-AKTS;Giriþimcilik II;Prof.Dr. Recep SADELER;2;3;61;Makine Mühendisliði Programý;8
+MKS-402-50-50;Tahribatsýz Malzeme Muayenesi;Prof.Dr. Ayhan ÇELÝK;3;5;12;Makine Mühendisliði Programý;8
+MKS-402-50-50;Buhar Kazanlarý;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;5;11;Makine Mühendisliði Programý;8
+MF-USS-50-50-KREDÝ;Giriþimcilik II;Prof.Dr. Recep SADELER;2;3;15;Makine Mühendisliði Programý;8
+MMS-412-50-50;Tahribatsýz Malzeme Muayenesi;Prof.Dr. Ayhan ÇELÝK;3;6;12;Makine Mühendisliði Programý;8
+MMS-412-50-50;Buhar Kazanlarý;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;4;5;Makine Mühendisliði Programý;8
+MKM-206-50-50;Akýþkanlar Mekaniði I;Dr. Öðr. Üyesi Ahmet Numan ÖZAKIN;3;4;52;Makine Mühendisliði Programý;4
+MKM-208-50-50;Mukavemet II;Prof. Hamit AKBULUT;3;4;80;Makine Mühendisliði Programý;4
+MUH-SAY-50-50a;Sayýsal Yöntemler;Prof.Dr. Ömer GÜNDOÐDU;3;4;40;Makine Mühendisliði Programý;4
+MKM-102-50-50-AKTS;Statik;Dr. Öðr. Üyesi Yakup UZUN;3;5;67;Makine Mühendisliði Programý;2
+MM-102-50-50-KREDÝ;Statik;Prof.Dr. Hikmet ALTUN;3;5;4;Makine Mühendisliði Programý;2
+MKM-210-50-50;Ýmal Usulleri I;Prof.Dr. Mehmet KARAKAN;3;5;62;Makine Mühendisliði Programý;4
+MM-210-50-50;Ýmal Usulleri I;Prof.Dr. Mehmet KARAKAN;3;NULL;5;Makine Mühendisliði Programý;4
+MUH-EKO-50-50-AKTS;Mühendislik Ekonomisi;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;2;3;40;Makine Mühendisliði Programý;6
+MKM-302-50-50;Makine Elemanlarý II;Doç.Dr. Halim KOVACI;3;5;47;Makine Mühendisliði Programý;6
+MKM-304-50-50;Isý Transferi II;Dr. Öðr. Üyesi Faruk YEÞÝLDAL;3;5;58;Makine Mühendisliði Programý;6
+MKM-308-50-50-AKTS;Isýtma Havalandýrma ve Ýklimlendirme;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;3;5;77;Makine Mühendisliði Programý;6
+MM-302-50-50;Makina Elemanlarý II;Prof.Dr. Sadri ÞEN;3;0;17;Makine Mühendisliði Programý;6
+MM-308-50-50-KREDÝ;Isýtma Havalandýrma ve Ýklimlendirme;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;3;5;12;Makine Mühendisliði Programý;6
+MM-304-50-50;Isý Transferi II;Dr. Öðr. Üyesi Faruk YEÞÝLDAL;3;NULL;14;Makine Mühendisliði Programý;6
+MF-EKO-50-50;Mühendislik Ekonomisi;Dr. Öðr. Üyesi Nesrin ADIGÜZEL;3;5;10;Makine Mühendisliði Programý;6
+MMS-310-50-50;Algoritma Geliþtirme Programlama;Prof.Dr. Sadri ÞEN;3;4;6;Makine Mühendisliði (Ý.Ö.) Programý;6
+MMS-310-50-50;Hidrolik Pnomatik Sistemler;Prof.Dr. Kenan YAKUT;3;4;13;Makine Mühendisliði (Ý.Ö.) Programý;6
+MMS-412-50-50;Tahribatsýz Malzeme Muayenesi;Prof.Dr. Ayhan ÇELÝK;3;6;15;Makine Mühendisliði (Ý.Ö.) Programý;8
+MMS-412-50-50;Buhar Kazanlarý;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;4;4;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKS-302-50-50;Hidrolik Pnomatik Sistemler;Prof.Dr. Kenan YAKUT;3;5;15;Makine Mühendisliði (Ý.Ö.) Programý;6
+MKS-302-50-50;Algoritma Geliþtirme ve Programlama;Prof.Dr. Sadri ÞEN;3;5;18;Makine Mühendisliði (Ý.Ö.) Programý;6
+MKS-402-50-50;Tahribatsýz Malzeme Muayenesi;Prof.Dr. Ayhan ÇELÝK;3;5;9;Makine Mühendisliði (Ý.Ö.) Programý;8
+MKS-402-50-50;Buhar Kazanlarý;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;5;7;Makine Mühendisliði (Ý.Ö.) Programý;8
+MF-TEK-50-50-KREDÝ;Mühendislikte Ýmalat Teknolojileri;Prof.Dr. Mehmet KARAKAN;3;4;1;Makine Mühendisliði (Ý.Ö.) Programý;8
+MUH-TEK-50-50-AKTS;Mühendislikte Ýmalat Teknolojileri;Prof.Dr. Mehmet KARAKAN;3;4;20;Makine Mühendisliði (Ý.Ö.) Programý;8
+IMS-202-50-50-KREDÝ;Yapýlarýn Yalýtým ve Korunmasý;Dr. Öðr. Üyesi Fatma KARAGÖL;3;4;1;Ýnþaat Mühendisliði Programý;4
+INS-202-50-50-AKTS;Ulaþtýrma Planlamasýna Giriþ;Prof.Dr. Ahmet TORTUM;3;4;45;Ýnþaat Mühendisliði Programý;4
+INS-202-50-50-AKTS;Yapýlarýn Yalýtým ve Korunmasý;Dr. Öðr. Üyesi Fatma KARAGÖL;3;4;45;Ýnþaat Mühendisliði Programý;4
+IMS-402-50-50-KREDÝ;Hasar Gören Yapýlarýn Güçlendirilmesi;Prof.Dr. Abdulkadir Cüneyt AYDIN;3;4;3;Ýnþaat Mühendisliði Programý;8
+IMS-402-50-50-KREDÝ;Özel Betonlar;Doç.Dr. Meral OLTULU;3;4;3;Ýnþaat Mühendisliði Programý;8
+INS-402-50-50-AKTS;Hasar Gören Yapýlarýn Güçlendirilmesi;Prof.Dr. Abdulkadir Cüneyt AYDIN;3;4;7;Ýnþaat Mühendisliði Programý;8
+INS-402-50-50-AKTS;Özel Betonlar;Doç.Dr. Meral OLTULU;3;4;6;Ýnþaat Mühendisliði Programý;8
+KMS-202-50-50 ;Korozyon ve Korunma;Prof.Dr. Fatih DEMÝR;3;0;2;Kimya Mühendisliði Programý;4
+KMS-202-50-50;Korozyon ve Korunma;Prof.Dr. Fatih DEMÝR;3;4;18;Kimya Mühendisliði Programý;4
+KMS-302-50-50;Su Kirliliði ve Kontrolü;Doç.Dr. Tuba Hatice DOÐAN;3;0;5;Kimya Mühendisliði Programý;6
+KMS-302-50-50;Su Kirliliði ve Kontrolü;Doç.Dr. Tuba Hatice DOÐAN;3;4;5;Kimya Mühendisliði Programý;6
+KMS-402-50-50;Gýda Ýþleme Mühendisliði;Prof.Dr. Saliha ERENTÜRK;3;0;7;Kimya Mühendisliði Programý;6
+KMS-402-50-50;Gýda Ýþleme Mühendisliði;Prof.Dr. Saliha ERENTÜRK;3;0;7;Kimya Mühendisliði Programý;8
+KMS-402-50-50-2017;Gýda Ýþleme Mühendisliði;Prof.Dr. Saliha ERENTÜRK;3;4;1;Kimya Mühendisliði Programý;6
+KMS-402-50-50-2017;Gýda Ýþleme Mühendisliði;Prof.Dr. Saliha ERENTÜRK;3;4;1;Kimya Mühendisliði Programý;8
+IM-312-50-50;Temel Ýnþaatý;Dr. Öðr. Üyesi Zeynep Neþe KURT ALBAYRAK;3;NULL;2;Ýnþaat Mühendisliði Programý;6
+INM-312-50-50;Temel Ýnþaatý;Dr. Öðr. Üyesi Zeynep Neþe KURT ALBAYRAK;3;5;80;Ýnþaat Mühendisliði Programý;6
+IM-308-;Betonarme I;NULL;3;0;0;Ýnþaat Mühendisliði Programý;6
+INM-308;Betonarme I;NULL;3;5;0;Ýnþaat Mühendisliði Programý;6
+IMS-202-50-50-KREDÝ;Ulaþtýrma Planlamasýna Giriþ;Prof.Dr. Ahmet TORTUM;3;4;2;Ýnþaat Mühendisliði Programý;4
+IM-302-50-50;Yapý Statiði II;Doç.Dr. Oðuz Akýn DÜZGÜN;3;NULL;2;Ýnþaat Mühendisliði Programý;6
+INM-302-50-50;Yapý Statiði II;Doç.Dr. Oðuz Akýn DÜZGÜN;3;5;65;Ýnþaat Mühendisliði Programý;6
+INM-406-50-50-2017;Yapý Ýþletme ve Þantiye Tekniði;Doç.Dr. Rýza POLAT;3;5;5;Ýnþaat Mühendisliði Programý;8
+INM-314-50-50-2018;Yapý Ýþletme ve Þantiye Tekniði;Doç.Dr. Rýza POLAT;3;4;69;Ýnþaat Mühendisliði Programý;6
+IM-304-50-50;Zemin Mekaniði II;Doç.Dr. Semet ÇELÝK;3;NULL;2;Ýnþaat Mühendisliði Programý;6
+INM-304-50-50;Zemin Mekaniði II;Doç.Dr. Semet ÇELÝK;3;5;60;Ýnþaat Mühendisliði Programý;6
+IM-306-50-50;Demiryolu ve Toprak Ýþleri;Doç.Dr. Osman Ünsal BAYRAK;3;NULL;1;Ýnþaat Mühendisliði Programý;6
+INM-306-50-50;Demiryolu ve Toprak Ýþleri;Doç.Dr. Osman Ünsal BAYRAK;4;5;65;Ýnþaat Mühendisliði Programý;6
+INM-204-50-50;Topoðrafya;Doç.Dr. Mahmut KILIÇ;3;4;48;Ýnþaat Mühendisliði Programý;4
+IM-206-50-50-KREDÝ;Akýþkanlar Mekaniði;NULL;3;5;0;Ýnþaat Mühendisliði Programý;4
+INM-206-50-50-AKTSb;Akýþkanlar Mekaniði;Dr. Öðr. Üyesi Selim ÞENGÜL;3;5;59;Ýnþaat Mühendisliði Programý;4
+MUH-SAY-50-50;Sayýsal Yöntemler;Dr. Öðr. Üyesi Fatma KARAGÖL;3;4;54;Ýnþaat Mühendisliði Programý;4
+INM-106-50-50;Bilgisayar Destekli Teknik Resim;Dr. Öðr. Üyesi Ahmet ATALAY;3;4;50;Ýnþaat Mühendisliði Programý;2
+MF-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Ýnþaat Mühendisliði Programý;8
+MF-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Ýnþaat Mühendisliði Programý;8
+MF-USS-50-elek;Bilim Tarihi;NULL;2;3;0;Ýnþaat Mühendisliði Programý;8
+MUH-USS-50-elek;Bilim Tarihi;NULL;2;3;0;Ýnþaat Mühendisliði Programý;8
+MUH-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Ýnþaat Mühendisliði Programý;8
+MUH-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Ýnþaat Mühendisliði Programý;8
+IMS-202-50-50-KREDÝ;Ulaþtýrma Planlamasýna Giriþ;Prof.Dr. Ahmet TORTUM;3;4;4;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+IMS-202-50-50-kredi;Yapýlarýn Yalýtým ve Korunmasý;NULL;3;4;0;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+INS-202-50-50-AKTS;Ulaþtýrma Planlamasýna Giriþ;Prof.Dr. Ahmet TORTUM;3;4;12;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+ÝNS-202-50-50-AKTS;Yapýlarýn Yalýtým ve Korunmasý;Dr. Öðr. Üyesi Fatma KARAGÖL;3;4;15;Ýnþaat Mühendisliði (Ý.Ö.) Programý;4
+MF-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+IMS-402-50-50-KREDÝ;Hasar Gören Yapýlarýn Güçlendirilmesi;Prof.Dr. Abdulkadir Cüneyt AYDIN;3;4;7;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+IMS-402-50-50-KREDÝ;Özel Betonlar;Doç.Dr. Meral OLTULU;3;4;6;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INS-402-50-50-AKTS;Hasar Gören Yapýlarýn Güçlendirilmesi;Prof.Dr. Abdulkadir Cüneyt AYDIN;3;4;6;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+INS-402-50-50-AKTS;Özel Betonlar;Doç.Dr. Meral OLTULU;3;4;8;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-elek;Bilim Tarihi;NULL;2;3;0;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-Elek;Bilim Tarihi;NULL;2;3;0;Ýnþaat Mühendisliði (Ý.Ö.) Programý;8
+CMS-202-50-50-KREDÝ;Zemin Mekaniði;Prof.Dr. Filiz Nuran ACAR;3;4;0;Çevre Mühendisliði Programý;4
+CMS-402-50-50;Küçük Arýtým Sistemleri;Dr. Öðr. Üyesi Fatma EKMEKYAPAR TORUN;3;5;2;Çevre Mühendisliði Programý;8
+CVS-202-50-50-AKTS;Zemin Mekaniði;Prof.Dr. Filiz Nuran ACAR;3;4;0;Çevre Mühendisliði Programý;4
+MM-208-50-50;Mukavemet II;Doç.Dr. Sinan SEZEK;3;NULL;3;Makine Mühendisliði Programý;4
+MM-204-50-50;Sayýsal Yöntemler;Prof.Dr. Ömer GÜNDOÐDU;3;NULL;2;Makine Mühendisliði Programý;4
+MF-USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Makine Mühendisliði Programý;8
+MF-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Makine Mühendisliði Programý;8
+MUH- USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Makine Mühendisliði Programý;8
+MUH-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Makine Mühendisliði Programý;8
+MM-206-50-50;Akýþkanlar Mekaniði I;Dr. Öðr. Üyesi Ahmet Numan ÖZAKIN;3;NULL;2;Makine Mühendisliði Programý;4
+MF-USS-50-50-KREDÝ;Giriþimcilik II;Prof.Dr. Recep SADELER;2;3;16;Makine Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Makine Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-50-AKTS;Giriþimcilik II;Prof.Dr. Recep SADELER;2;3;43;Makine Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Makine Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Makine Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Makine Mühendisliði (Ý.Ö.) Programý;8
+ EES-302-50-50;Enerji Üretim, Ýletim ve Daðýtým Sistemleri;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;NULL;4;Elektrik-Elektronik Mühendisliði Programý;6
+EES-302-50-50-AKTS;Enerji Üretim, Ýletim ve Daðýtým Sistemleri;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;4;77;Elektrik-Elektronik Mühendisliði Programý;6
+ EES-402-50-50;Aydýnlatma Tekniði;Dr. Öðr. Üyesi Miraç Dilruba GEYÝKOÐLU;3;NULL;2;Elektrik-Elektronik Mühendisliði Programý;8
+EES-402-50-50-KREDÝ;Nanoelektroniðe Giriþ;Prof.Dr. Mehmet ERTUÐRUL;3;4;5;Elektrik-Elektronik Mühendisliði Programý;8
+EES-402-50-50-AKTS;Nanoelektroniðe Giriþ;Prof.Dr. Mehmet ERTUÐRUL;3;4;10;Elektrik-Elektronik Mühendisliði Programý;8
+EES-402-50-50;Aydýnlatma Tekniði;Dr. Öðr. Üyesi Miraç Dilruba GEYÝKOÐLU;3;4;14;Elektrik-Elektronik Mühendisliði Programý;8
+EEM-102-50-50;Elektrik Devre Temelleri;Dr. Öðr. Üyesi Emin Argun ORAL;4;7;64;Elektrik-Elektronik Mühendisliði Programý;2
+EE-102-50-50;Fundamentals Of Elect. Cýrcuýts;Dr. Öðr. Üyesi Emin Argun ORAL;4;7;1;Elektrik-Elektronik Mühendisliði Programý;2
+EEM-212-50-50;Analog Elektronik Laboratuvarý;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;2;2;41;Elektrik-Elektronik Mühendisliði Programý;4
+EEM-104-50-50;Bilgisayar Programlama II;Öðr.Gör. Atakan ABUÞOÐLU;3;5;66;Elektrik-Elektronik Mühendisliði Programý;2
+MF-USS-50-MAK.;Giriþimcilik II;NULL;2;3;0;Elektrik-Elektronik Mühendisliði Programý;8
+MF-USS-50-50-KREDÝ;Dijital Okuryazarlýk;Arþ.Gör.Dr. Merve ACAR;2;3;10;Elektrik-Elektronik Mühendisliði Programý;8
+MF-USS-50-50-KREDÝ;Bilim Tarihi;Prof.Dr. Mehmet ERTUÐRUL;2;3;7;Elektrik-Elektronik Mühendisliði Programý;8
+MUH-USS-50-MAK;Giriþimcilik II;NULL;2;3;0;Elektrik-Elektronik Mühendisliði Programý;8
+MUH-USS-50-50-AKTS;Dijital Okuryazarlýk;Arþ.Gör.Dr. Merve ACAR;2;3;53;Elektrik-Elektronik Mühendisliði Programý;8
+MUH-USS-50-50-AKTS;Bilim Tarihi;Prof.Dr. Mehmet ERTUÐRUL;2;3;43;Elektrik-Elektronik Mühendisliði Programý;8
+EES-302-50-50;Enerji Üretim, Ýletim ve Daðýtým Sistemleri;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;NULL;3;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+EES-302-50-50;Enerji Üretim, Ýletim ve Daðýtým Sistemleri;Dr. Öðr. Üyesi Muhammed Fatih ÇORAPSIZ;3;4;77;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;6
+MF-USS-50-MAK;Giriþimcilik II;NULL;2;3;0;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EES-402-50-50-KREDÝ;Nanoelektroniðe Giriþ;Prof.Dr. Mehmet ERTUÐRUL;3;4;4;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EES-402-50-50;Aydýnlatma Tekniði;Dr. Öðr. Üyesi Miraç Dilruba GEYÝKOÐLU;3;NULL;3;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-50-KREDÝ;Dijital Okuryazarlýk;Arþ.Gör.Dr. Merve ACAR;2;3;9;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-50-KREDÝ;Bilim Tarihi;Prof.Dr. Mehmet ERTUÐRUL;2;3;9;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-MAK;Giriþimcilik II;NULL;2;3;0;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EES-402-50-50-AKTS;Nanoelektroniðe Giriþ;Prof.Dr. Mehmet ERTUÐRUL;3;4;12;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-50-AKTS;Dijital Okuryazarlýk;Arþ.Gör.Dr. Merve ACAR;2;3;49;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EES-402-50-50;Aydýnlatma Tekniði;Dr. Öðr. Üyesi Miraç Dilruba GEYÝKOÐLU;3;4;10;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-50-AKTS;Bilim Tarihi;Prof.Dr. Mehmet ERTUÐRUL;2;3;43;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+EE-214-50-50;Analog Elektronik Laboratuvarý;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;2;NULL;2;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EEM 212-50-50;Analog Elektronik Laboratuvarý;Dr. Öðr. Üyesi Gökhan ÖZTÜRK;2;2;33;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;4
+EMS-302-50-50;Endüstri Mühendisliði Bilgisayar Uygulamalarý;Doç.Dr. Mustafa YILMAZ;3;5;7;Endüstri Mühendisliði Programý;6
+EMS-302-50-50-KREDÝ;Çok Ölçütlü Karar Verme Problemleri;Dr. Öðr. Üyesi Erdem AKSAKAL;3;4;8;Endüstri Mühendisliði Programý;6
+ENS-302-50-50-AKTS;Çok Ölçütlü Karar Verme Problemleri;Dr. Öðr. Üyesi Erdem AKSAKAL;3;4;47;Endüstri Mühendisliði Programý;6
+ENS-302-50-50;Endüstri Mühendisliðinde Bilgisayar Uygulamalarý;Doç.Dr. Mustafa YILMAZ;3;4;51;Endüstri Mühendisliði Programý;6
+EMS-402-50-50-KREDÝ;Envanter Planlama;Dr. Öðr. Üyesi Sinan ÖZTAÞ;3;5;4;Endüstri Mühendisliði Programý;8
+EMS-402-50-50-KREDÝ;Kurumsal Kaynak Planlamasý;Doç.Dr. Burak ERKAYMAN;3;5;3;Endüstri Mühendisliði Programý;8
+ENS-402-50-50-AKTS;Kurumsal Kaynak Planlamasý;Doç.Dr. Burak ERKAYMAN;3;5;8;Endüstri Mühendisliði Programý;8
+ENS-402-50-50-AKTS;Envanter Planlama;Dr. Öðr. Üyesi Sinan ÖZTAÞ;3;5;12;Endüstri Mühendisliði Programý;8
+MF-USS-50-MAK;Giriþimcilik II;NULL;2;3;0;Endüstri Mühendisliði Programý;8
+MF-USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Endüstri Mühendisliði Programý;8
+MF-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Endüstri Mühendisliði Programý;8
+MUH-USS-50-MAK;Giriþimcilik II;NULL;2;3;0;Endüstri Mühendisliði Programý;8
+MUH- USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Endüstri Mühendisliði Programý;8
+MUH-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Endüstri Mühendisliði Programý;8
+EMS-302-50-50;Endüstri Mühendisliði Bilgisayar Uygulamalarý;Doç.Dr. Mustafa YILMAZ;3;5;0;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+MF-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-elek;Bilim Tarihi;NULL;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EMS-402-50-ö.ö;Kurumsal Kaynak Planlamasý;NULL;3;5;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EMS-402-50-50-KREDÝ;Envanter Planlama;Dr. Öðr. Üyesi Sinan ÖZTAÞ;3;5;4;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EMS-302-50-50-KREDÝ;Çok Ölçütlü Karar Verme Problemleri;Dr. Öðr. Üyesi Erdem AKSAKAL;3;4;3;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ENS-302-50-50;Endüstri Mühendisliðinde Bilgisayar Uygulamalarý;Doç.Dr. Mustafa YILMAZ;3;4;12;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+ENS-402-50-ö.ö;Kurumsal Kaynak Planlamasý;NULL;3;5;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENS-402-50-50-AKTS;Envanter Planlama;Dr. Öðr. Üyesi Sinan ÖZTAÞ;3;5;12;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-elek;Bilim Tarihi;NULL;2;3;0;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+ENM-208-50-50;Yöneylem Araþtýrmalarý I;Dr. Öðr. Üyesi Erdem AKSAKAL;2;4;60;Endüstri Mühendisliði Programý;4
+BMS-302-50-50-KREDÝ;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;1;Bilgisayar Mühendisliði Programý;6
+BMS-302-50-50-KREDÝ;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;1;Bilgisayar Mühendisliði Programý;7
+BMS-302-50-50;Yapay Zekaya Giriþ;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;3;0;6;Bilgisayar Mühendisliði Programý;6
+MF-USS-50-MAK;Giriþimcilik II;NULL;2;3;0;Bilgisayar Mühendisliði Programý;8
+BMS-402-50-50;Ýnsan Bilgisayar Etkileþimi;Prof.Dr. Abdulsamet HAÞILOÐLU;3;NULL;2;Bilgisayar Mühendisliði Programý;8
+MF-USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Bilgisayar Mühendisliði Programý;8
+BMS-402-50-50;Mekatroniðe Giriþ;Prof.Dr. Köksal ERENTÜRK;3;3;4;Bilgisayar Mühendisliði Programý;8
+BIS-402-50-50;Mekatroniðe Giriþ;Prof.Dr. Köksal ERENTÜRK;3;6;9;Bilgisayar Mühendisliði Programý;8
+BIS-402-50-50;Ýnsan Bilgisayar Etkileþimi;Prof.Dr. Abdulsamet HAÞILOÐLU;3;6;10;Bilgisayar Mühendisliði Programý;8
+BIS-302-50-50;Yapay Zekaya Giriþ;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;3;4;34;Bilgisayar Mühendisliði Programý;6
+BIS-302-50-50-AKTS;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;38;Bilgisayar Mühendisliði Programý;6
+BIS-302-50-50-AKTS;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;38;Bilgisayar Mühendisliði Programý;7
+MF-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Bilgisayar Mühendisliði Programý;8
+MUH- USS-50-MAK;Giriþimcilik II;NULL;2;3;0;Bilgisayar Mühendisliði Programý;8
+MUH- USS-50-ELEK;Dijital Okuryazarlýk;NULL;2;3;0;Bilgisayar Mühendisliði Programý;8
+MUH-USS-50-ELEK;Bilim Tarihi;NULL;2;3;0;Bilgisayar Mühendisliði Programý;8
+BMS-302-50-50-KREDÝ;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;1;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BMS-302-50-50-KREDÝ;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;1;Bilgisayar Mühendisliði (Ý.Ö.) Programý;7
+MF-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BMS-402-50-50;Mekatroniðe Giriþ;Prof.Dr. Köksal ERENTÜRK;3;3;2;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+MF-USS-50-elek;Bilim Tarihi;NULL;2;3;0;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIS-302-50-50;Yapay Zekaya Giriþ;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;3;4;28;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIS-302-50-50-AKTS;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;26;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIS-302-50-50-AKTS;Makine Öðrenmesine Giriþ;Dr. Öðr. Üyesi Tolga AYDIN;3;4;26;Bilgisayar Mühendisliði (Ý.Ö.) Programý;7
+MUH-USS-50-mak;Giriþimcilik II;NULL;2;3;0;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIS-402-50-50;Mekatroniðe Giriþ;Prof.Dr. Köksal ERENTÜRK;3;6;15;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-elek;Dijital Okuryazarlýk;NULL;2;3;0;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BIS-402-50-50;Ýnsan Bilgisayar Etkileþimi;Prof.Dr. Abdulsamet HAÞILOÐLU;3;6;12;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+MUH-USS-50-elek;Bilim Tarihi;NULL;2;3;0;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+BMS-402-50-50;Ýnsan Bilgisayar Etkileþimi;Prof.Dr. Abdulsamet HAÞILOÐLU;3;NULL;5;Bilgisayar Mühendisliði (Ý.Ö.) Programý;8
+ BM-304-50-50;Sinyaller ve Sistemler;Prof.Dr. Köksal ERENTÜRK;3;5;1;Bilgisayar Mühendisliði (Ý.Ö.) Programý;6
+BIM-210-50-50;Sinyaller ve Sistemler;Prof.Dr. Köksal ERENTÜRK;3;4;42;Bilgisayar Mühendisliði (Ý.Ö.) Programý;4
+BM-102-50-50-KREDÝ;Ayrýk Matematik;Dr. Öðr. Üyesi Ferhat BOZKURT;3;5;2;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BIM-102-50-50-AKTS;Ayrýk Matematik;Dr. Öðr. Üyesi Mete YAÐANOÐLU;3;5;54;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BM-102-50-50-KREDÝ;Ayrýk Matematik;NULL;3;5;0;Bilgisayar Mühendisliði Programý;2
+BIM-102-50-50-AKTS;Ayrýk Matematik;Dr. Öðr. Üyesi Ferhat BOZKURT;3;5;55;Bilgisayar Mühendisliði Programý;2
+ BM-304-50-50;Sinyaller ve Sistemler;Prof.Dr. Köksal ERENTÜRK;3;5;1;Bilgisayar Mühendisliði Programý;6
+BIM-210-50-50-AKTS;Sinyaller ve Sistemler;Prof.Dr. Köksal ERENTÜRK;3;4;73;Bilgisayar Mühendisliði Programý;4
+ BM-304-50-50;Sinyaller ve Sistemler;Dr. Öðr. Üyesi Barýþ ÖZYER;3;5;1;Bilgisayar Mühendisliði Programý;6
+OZD-302;Atatürk Ýlkeleri ve Ýnkýlap Tarihi II;Prof.Dr. Tolga BAÞAK;2;2;6;Bilgisayar Mühendisliði Programý;6
+MF-TEK-50-50-KREDÝ;Çevre Kirliliðinin kontrolü;Prof.Dr. Ergün YILDIZ;3;4;8;Çevre Mühendisliði Programý;8
+MUH-TEK-50-50-AKTS;Çevre Kirliliðinin kontrolü;Prof.Dr. Ergün YILDIZ;3;4;26;Çevre Mühendisliði Programý;8
+FIZ-102-50-50;Fizik II;Prof.Dr. Mustafa SAÐLAM;5;NULL;0;Çevre Mühendisliði Programý;2
+FIZ-102-50-50-AKTS;Fizik II;Prof.Dr. Muhammet YILDIRIM;5;6;53;Elektrik-Elektronik Mühendisliði Programý;2
+EE-406-50-50;Design of Integrated Circuits;Prof.Dr. Hasan EFEOÐLU;3;5;3;Elektrik-Elektronik Mühendisliði Programý;8
+MF-TEK-50-50;Endüstriyel Malzeme Seçimi;Prof.Dr. Kadri Vefa EZÝRMÝK;3;0;9;Metalurji ve Malzeme Mühendisliði Programý;8
+MMS-302-50-50-KREDÝ;Talaþlý Ýmalat Yöntemleri;Dr. Öðr. Üyesi Sebahattin Yenal VANGÖLÜ;3;5;4;Metalurji ve Malzeme Mühendisliði Programý;6
+MF-TEK-50-50;Mühendisler Ýçin Elektrik-Elektronik Bilgisi;Prof.Dr. Ýbrahim Yücel ÖZBEK;3;5;8;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+MUH-TEK-50-50;Mühendisler Ýçin Elektrik-Elektronik Bilgisi;Prof.Dr. Ýbrahim Yücel ÖZBEK;3;4;17;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+MM-208-60-40;Mukavemet II;Doç.Dr. Sinan SEZEK;3;NULL;1;Makine Mühendisliði Programý;4
+MM-302-60-40;Makina Elemanlarý II;Doç.Dr. Halim KOVACI;3;0;2;Makine Mühendisliði Programý;6
+MM-304-60-40;Isý Transferi II;Dr. Öðr. Üyesi Faruk YEÞÝLDAL;3;NULL;2;Makine Mühendisliði Programý;6
+MM-406-60-40;Enerji Dönüþüm Sistemleri;Prof.Dr. Ýsmail SOLMAZ;3;5;1;Makine Mühendisliði Programý;8
+MM-408-60-40;Bitirme Projesi II;Prof.Dr. Yaþar TOTÝK;2;NULL;1;Makine Mühendisliði Programý;8
+MMS-402-60-40;Makine Ana Seçmeli Tasarýmý II;Prof.Dr. Yaþar TOTÝK;3;6;1;Makine Mühendisliði Programý;8
+MMS-412-60-40;Tahribatsýz Malzeme Muayenesi;Prof.Dr. Ayhan ÇELÝK;3;6;1;Makine Mühendisliði Programý;8
+MM-404-60-40;Makine Laboratuvarý II;Dr. Öðr. Üyesi Erdoðan GÜNER;2;4;1;Makine Mühendisliði Programý;8
+MF-USS-60-40;Giriþimcilik II;Prof.Dr. Recep SADELER;2;3;1;Makine Mühendisliði Programý;8
+EES-402-50-50-KREDÝ;Güç Elektroniði;Doç.Dr. Abdullah BAÞÇÝ;3;4;1;Elektrik-Elektronik Mühendisliði (Ý.Ö.) Programý;8
+BIM-104-50-50-B;Nesneye Yönelik Programlama;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;5;7;36;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BIM-104-50-50-C;Nesneye Yönelik Programlama;Dr. Öðr. Üyesi Ahmet COÞKUNÇAY;5;7;40;Bilgisayar Mühendisliði (Ý.Ö.) Programý;2
+BIM-104-50-50-B;Nesneye Yönelik Programlama;Dr. Öðr. Üyesi Gülþah TÜMÜKLÜ ÖZYER;5;7;38;Bilgisayar Mühendisliði Programý;2
+BIM-104-50-50-C;Nesneye Yönelik Programlama;Dr. Öðr. Üyesi Ahmet COÞKUNÇAY;5;7;46;Bilgisayar Mühendisliði Programý;2
+EM-302-60-40;Yöneylem Araþtýrmasý III;Prof.Dr. Vecihi YÝÐÝT;3;NULL;1;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+EMS-302-60-40;Endüstri Mühendisliði Bilgisayar Uygulamalarý;Doç.Dr. Mustafa YILMAZ;3;5;1;Endüstri Mühendisliði (Ý.Ö.) Programý;6
+EM-408-60-40;Bitirme Projesi II;Prof.Dr. Cafer ÇELÝK;2;NULL;1;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EM-402-60-40;Yönetim Bilgi Sistemleri;Dr. Öðr. Üyesi Yeþim OK;3;0;1;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+EMS-404-60-40;Endüstri Mühendisliði Seçmeli Tasarýmý II;Prof.Dr. Cafer ÇELÝK;3;6;1;Endüstri Mühendisliði (Ý.Ö.) Programý;8
+MKM-212-50-50-B-AKTS;Termodinamik II;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;4;56;Makine Mühendisliði Programý;4
+MM-212-50-50-B;Termodinamik II;Dr. Öðr. Üyesi Fadime ÞÝMÞEK;3;NULL;7;Makine Mühendisliði Programý;4
+ENM-206-50-50;Mühendislik Ýstatistiði;Prof.Dr. Cafer ÇELÝK;3;5;46;Endüstri Mühendisliði Programý;4
